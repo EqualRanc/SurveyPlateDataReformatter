@@ -4,7 +4,7 @@ Created on Wed Apr 13 13:46:49 2022
 
 This code is intended to take .xml files from Echo plate surveys and reinterpret the volume data and rearrange into a 384W-plate formatted view.
 
-@author: Chris
+@author: EqualRanc
 """
 
 import xlwings as xw
@@ -15,9 +15,7 @@ import PySimpleGUI as sg
 import datetime
 from openpyxl import load_workbook
 from openpyxl.styles import Color #can also add PatternFill, Font, Border
-#from openpyxl.styles.differential import DifferentialStyle
 from openpyxl.formatting.rule import ColorScaleRule #Can also add CellIsRule, FormulaRule
-#from openpyxl.styles import colors
 
 
 threeeightfourheaders = ['','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20','21','22','23','24']
@@ -112,28 +110,31 @@ def excelformat(formatfile,platestr):
     wb.save(formatfile)
 
 
+def datalayout():
+    #Setup for the single-point data processing main interface
+    dataentries = [
+        [sg.Text("Plate Survey Summarizer",font='Any 18')],
+        [sg.Frame('Browse to exported plate survey files:', [[sg.Input(key='-raw-'), sg.FolderBrowse(target='-raw-')]])],
+        [sg.Frame("Please give your summary a name:", [[sg.Input(key='-name-')]])],
+        [sg.Submit(), sg.Cancel()]
+    ]
 
-#Setup for the singple-point data processing main interface
-dataentries = [
-     [sg.Text("Plate Survey Summarizer",font='Any 18')],
-     [sg.Frame('Browse to exported plate survey files:', [[sg.Input(key='-raw-'), sg.FolderBrowse(target='-raw-')]])],
-     [sg.Frame("Please give your summary a name:", [[sg.Input(key='-name-')]])],
-     [sg.Submit(), sg.Cancel()]
-]
 
+    datastatus = [
+        [sg.Text('Status:', size=[20,1])],
+        [sg.Multiline(key='datastatus',autoscroll=True,size=(30,20))],
+    ]
 
-datastatus = [
-    [sg.Text('Status:', size=[20,1])],
-     [sg.Multiline(key='datastatus',autoscroll=True,size=(30,20))],
-]
+    datalayout = [
+        [
+        sg.Column(dataentries),
+        sg.VSeperator(),
+        sg.Column(datastatus)
+        ]
+    ]
+    return datalayout
 
-datalayout = [
-    [
-     sg.Column(dataentries),
-     sg.VSeperator(),
-     sg.Column(datastatus)
-     ]
-]
+datalayout = datalayout()
 
 #Creates the theme
 sg.theme('Dark Teal')

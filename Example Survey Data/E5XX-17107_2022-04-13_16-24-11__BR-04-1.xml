@@ -1,0 +1,2431 @@
+﻿<?xml version="1.0"?>
+<platesurvey name="384PP_AQ_CP" barcode="BR-04-1" date="2022-04-13 23:18:14.000" serial_number="E5XX-17107" vtl="0" original="1" frmt="1" rows="16" cols="24" totalWells="384">
+     <w r="0" c="0" n="A1" vl="0" cvl="0" status="Data missing for well (1th row, 1th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.532" v="2.437" />
+               <f t="EW TB" o="31.13" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="1" n="A2" vl="18.733" cvl="18.733" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="71570.223" s="1.444" fsh="1.433" fsinh="1.444" t="1.523" ct="1.523" b="0.594" fth="1.518" ftinh="1.523" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.504" v="2.39" />
+               <f t="FW TB1" o="31.098" v="2.39" />
+               <f t="SR" o="33.158" v="1.906" />
+          </e>
+     </w>
+     <w r="0" c="2" n="A3" vl="20.072" cvl="20.072" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="71570.223" s="1.426" fsh="1.433" fsinh="1.426" t="1.624" ct="1.624" b="0.596" fth="1.628" ftinh="1.624" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.474" v="2.296" />
+               <f t="FW TB1" o="31.07" v="2.328" />
+               <f t="SR" o="33.28" v="2.062" />
+          </e>
+     </w>
+     <w r="0" c="3" n="A4" vl="21.795" cvl="21.795" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="71570.223" s="1.417" fsh="1.417" fsinh="1.417" t="1.754" ct="1.754" b="0.597" fth="1.754" ftinh="1.754" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.44" v="2.359" />
+               <f t="FW TB1" o="31.038" v="2.39" />
+               <f t="SR" o="33.432" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="4" n="A5" vl="29.012" cvl="29.012" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="71570.223" s="1.408" fsh="1.417" fsinh="1.408" t="2.3" ct="2.3" b="0.599" fth="2.306" ftinh="2.3" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.412" v="2.328" />
+               <f t="FW TB1" o="31.012" v="2.39" />
+               <f t="SR" o="34.158" v="3.093" />
+          </e>
+     </w>
+     <w r="0" c="5" n="A6" vl="28.164" cvl="28.164" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="71570.223" s="1.425" fsh="1.408" fsinh="1.425" t="2.237" ct="2.237" b="0.6" fth="2.225" ftinh="2.237" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.39" v="2.312" />
+               <f t="FW TB1" o="30.99" v="2.343" />
+               <f t="SR" o="34.034" v="2.437" />
+          </e>
+     </w>
+     <w r="0" c="6" n="A7" vl="24.189" cvl="24.189" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="71570.223" s="1.423" fsh="1.415" fsinh="1.423" t="1.936" ct="1.936" b="0.596" fth="1.931" ftinh="1.936" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.37" v="2.312" />
+               <f t="FW TB1" o="30.966" v="2.328" />
+               <f t="SR" o="33.602" v="2.515" />
+          </e>
+     </w>
+     <w r="0" c="7" n="A8" vl="29.515" cvl="29.515" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="71570.223" s="1.415" fsh="1.415" fsinh="1.415" t="2.338" ct="2.338" b="0.597" fth="2.338" ftinh="2.338" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.35" v="2.281" />
+               <f t="FW TB1" o="30.948" v="2.328" />
+               <f t="SR" o="34.14" v="2.875" />
+          </e>
+     </w>
+     <w r="0" c="8" n="A9" vl="27.151" cvl="27.151" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="71570.223" s="1.417" fsh="1.415" fsinh="1.417" t="2.16" ct="2.16" b="0.596" fth="2.158" ftinh="2.16" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.332" v="2.343" />
+               <f t="FW TB1" o="30.928" v="2.312" />
+               <f t="SR" o="33.874" v="3.484" />
+          </e>
+     </w>
+     <w r="0" c="9" n="A10" vl="25.09" cvl="25.09" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="71570.223" s="1.424" fsh="1.417" fsinh="1.424" t="2.004" ct="2.004" b="0.583" fth="2" ftinh="2.004" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.332" v="2.312" />
+               <f t="FW TB1" o="30.916" v="2.343" />
+               <f t="SR" o="33.644" v="2.125" />
+          </e>
+     </w>
+     <w r="0" c="10" n="A11" vl="25.624" cvl="25.624" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="71570.223" s="1.42" fsh="1.42" fsinh="1.42" t="2.044" ct="2.044" b="0.582" fth="2.044" ftinh="2.044" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.338" v="2.281" />
+               <f t="FW TB1" o="30.92" v="2.25" />
+               <f t="SR" o="33.706" v="2.093" />
+          </e>
+     </w>
+     <w r="0" c="11" n="A12" vl="29.686" cvl="29.686" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="71570.223" s="1.482" fsh="0" fsinh="1.482" t="2.355" ct="2.355" b="0.589" fth="1.26" ftinh="2.355" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="71570.223" z="18080.506">
+               <f t="FW BB" o="30.314" v="2.328" />
+               <f t="FW TB1" o="30.904" v="1.937" />
+               <f t="SR" o="34.052" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="12" n="A13" vl="0" cvl="0" status="Data missing for well (1th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.306" v="2.406" />
+               <f t="EW TB" o="30.898" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="13" n="A14" vl="0" cvl="0" status="Data missing for well (1th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.579" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.324" v="2.437" />
+               <f t="EW TB" o="30.904" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="14" n="A15" vl="0" cvl="0" status="Data missing for well (1th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.584" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.302" v="2.343" />
+               <f t="EW TB" o="30.886" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="15" n="A16" vl="0" cvl="0" status="Data missing for well (1th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.284" v="2.531" />
+               <f t="EW TB" o="30.882" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="16" n="A17" vl="0" cvl="0" status="Data missing for well (1th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.359" />
+               <f t="EW TB" o="30.89" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="17" n="A18" vl="0" cvl="0" status="Data missing for well (1th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.304" v="2.312" />
+               <f t="EW TB" o="30.902" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="18" n="A19" vl="0" cvl="0" status="Data missing for well (1th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.314" v="2.296" />
+               <f t="EW TB" o="30.912" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="19" n="A20" vl="0" cvl="0" status="Data missing for well (1th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.332" v="2.343" />
+               <f t="EW TB" o="30.93" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="20" n="A21" vl="0" cvl="0" status="Data missing for well (1th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.352" v="2.375" />
+               <f t="EW TB" o="30.948" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="21" n="A22" vl="0" cvl="0" status="Data missing for well (1th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.38" v="2.406" />
+               <f t="EW TB" o="30.974" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="22" n="A23" vl="0" cvl="0" status="Data missing for well (1th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.398" v="2.375" />
+               <f t="EW TB" o="30.994" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="23" n="A24" vl="0" cvl="0" status="Data missing for well (1th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="71570.223" z="18080.506">
+               <f t="EW BB" o="30.412" v="2.406" />
+               <f t="EW TB" o="31.006" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="0" n="B1" vl="7.206" cvl="7.206" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="67088.223" s="1.462" fsh="1.422" fsinh="1.462" t="0.617" ct="0.617" b="0.593" fth="0.609" ftinh="0.617" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.528" v="2.421" />
+               <f t="FW TB1" o="31.122" v="2.343" />
+               <f t="SR" o="31.952" v="2.375" />
+          </e>
+     </w>
+     <w r="1" c="1" n="B2" vl="36.04" cvl="36.04" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="67088.223" s="1.433" fsh="1.433" fsinh="1.433" t="2.834" ct="2.834" b="0.597" fth="2.833" ftinh="2.834" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.496" v="2.375" />
+               <f t="FW TB1" o="31.094" v="2.39" />
+               <f t="SR" o="34.94" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="2" n="B3" vl="30.836" cvl="30.836" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="67088.223" s="1.447" fsh="1.433" fsinh="1.447" t="2.441" ct="2.441" b="0.597" fth="2.43" ftinh="2.441" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.466" v="2.328" />
+               <f t="FW TB1" o="31.064" v="2.312" />
+               <f t="SR" o="34.362" v="2.921" />
+          </e>
+     </w>
+     <w r="1" c="3" n="B4" vl="37.258" cvl="37.258" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="67088.223" s="1.434" fsh="1.433" fsinh="1.434" t="2.926" ct="2.926" b="0.597" fth="2.925" ftinh="2.926" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.44" v="2.343" />
+               <f t="FW TB1" o="31.038" v="2.39" />
+               <f t="SR" o="35.008" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="4" n="B5" vl="0" cvl="0" status="Data missing for well (2th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.602" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.416" v="2.406" />
+               <f t="EW TB" o="31.018" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="5" n="B6" vl="0" cvl="0" status="Data missing for well (2th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.603" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.394" v="2.39" />
+               <f t="EW TB" o="30.998" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="6" n="B7" vl="0" cvl="0" status="Data missing for well (2th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.372" v="2.39" />
+               <f t="EW TB" o="30.972" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="7" n="B8" vl="57.201" cvl="57.201" status="" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="67088.223" s="1.16" fsh="1.417" fsinh="1.16" t="4.372" ct="4.372" b="0.67" fth="4.765" ftinh="4.372" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.352" v="2.406" />
+               <f t="FW TB1" o="31.022" v="3.375" />
+               <f t="SR" o="37.522" v="0" />
+          </e>
+     </w>
+     <w r="1" c="8" n="B9" vl="57.201" cvl="57.201" status="" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="67088.223" s="1.16" fsh="1.417" fsinh="1.16" t="4.372" ct="4.372" b="0.483" fth="4.765" ftinh="4.372" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="67088.223" z="18080.506">
+               <f t="FW BB" o="30.334" v="2.39" />
+               <f t="FW TB1" o="30.818" v="3.406" />
+               <f t="SR" o="37.318" v="0" />
+          </e>
+     </w>
+     <w r="1" c="9" n="B10" vl="0" cvl="0" status="Data missing for well (2th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.32" v="2.406" />
+               <f t="EW TB" o="30.912" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="10" n="B11" vl="0" cvl="0" status="Data missing for well (2th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.579" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.334" v="2.421" />
+               <f t="EW TB" o="30.914" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="11" n="B12" vl="0" cvl="0" status="Data missing for well (2th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.296" v="2.39" />
+               <f t="EW TB" o="30.894" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="12" n="B13" vl="0" cvl="0" status="Data missing for well (2th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.288" v="2.359" />
+               <f t="EW TB" o="30.886" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="13" n="B14" vl="0" cvl="0" status="Data missing for well (2th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.58" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.39" />
+               <f t="EW TB" o="30.892" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="14" n="B15" vl="0" cvl="0" status="Data missing for well (2th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.587" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.278" v="2.437" />
+               <f t="EW TB" o="30.866" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="15" n="B16" vl="0" cvl="0" status="Data missing for well (2th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.272" v="2.437" />
+               <f t="EW TB" o="30.862" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="16" n="B17" vl="0" cvl="0" status="Data missing for well (2th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.276" v="2.421" />
+               <f t="EW TB" o="30.866" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="17" n="B18" vl="0" cvl="0" status="Data missing for well (2th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.284" v="2.375" />
+               <f t="EW TB" o="30.876" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="18" n="B19" vl="0" cvl="0" status="Data missing for well (2th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.39" />
+               <f t="EW TB" o="30.888" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="19" n="B20" vl="0" cvl="0" status="Data missing for well (2th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.375" />
+               <f t="EW TB" o="30.908" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="20" n="B21" vl="0" cvl="0" status="Data missing for well (2th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.332" v="2.375" />
+               <f t="EW TB" o="30.928" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="21" n="B22" vl="0" cvl="0" status="Data missing for well (2th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.35" v="2.406" />
+               <f t="EW TB" o="30.946" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="22" n="B23" vl="0" cvl="0" status="Data missing for well (2th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.38" v="2.39" />
+               <f t="EW TB" o="30.974" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="23" n="B24" vl="0" cvl="0" status="Data missing for well (2th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="67088.223" z="18080.506">
+               <f t="EW BB" o="30.4" v="2.406" />
+               <f t="EW TB" o="30.994" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="0" n="C1" vl="0" cvl="0" status="Data missing for well (3th row, 1th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.522" v="2.484" />
+               <f t="EW TB" o="31.118" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="1" n="C2" vl="39.455" cvl="39.455" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="62606.223" s="1.422" fsh="1.433" fsinh="1.422" t="3.091" ct="3.091" b="0.596" fth="3.102" ftinh="3.091" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.484" v="2.359" />
+               <f t="FW TB1" o="31.08" v="2.39" />
+               <f t="SR" o="35.29" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="2" n="C3" vl="40.434" cvl="40.434" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="62606.223" s="1.433" fsh="1.431" fsinh="1.433" t="3.166" ct="3.166" b="0.597" fth="3.165" ftinh="3.166" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.454" v="2.343" />
+               <f t="FW TB1" o="31.052" v="2.343" />
+               <f t="SR" o="35.35" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="3" n="C4" vl="8.296" cvl="8.296" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="62606.223" s="1.467" fsh="1.432" fsinh="1.467" t="0.71" ct="0.71" b="0.588" fth="0.702" ftinh="0.71" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.428" v="2.375" />
+               <f t="FW TB1" o="31.016" v="2.265" />
+               <f t="SR" o="31.97" v="0.953" />
+          </e>
+     </w>
+     <w r="2" c="4" n="C5" vl="15.478" cvl="15.478" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="62606.223" s="1.449" fsh="1.431" fsinh="1.449" t="1.276" ct="1.276" b="0.598" fth="1.269" ftinh="1.276" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.404" v="2.421" />
+               <f t="FW TB1" o="31.002" v="2.359" />
+               <f t="SR" o="32.726" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="5" n="C6" vl="7.194" cvl="7.194" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="62606.223" s="1.464" fsh="0" fsinh="1.464" t="0.616" ct="0.616" b="0.596" fth="0.331" ftinh="0.616" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.384" v="2.421" />
+               <f t="FW TB1" o="30.98" v="2.328" />
+               <f t="SR" o="31.808" v="2.953" />
+          </e>
+     </w>
+     <w r="2" c="6" n="C7" vl="47.919" cvl="47.919" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="62606.223" s="1.457" fsh="0" fsinh="1.457" t="3.738" ct="3.738" b="0.598" fth="2.015" ftinh="3.738" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.36" v="2.421" />
+               <f t="FW TB1" o="30.958" v="2.312" />
+               <f t="SR" o="35.992" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="7" n="C8" vl="15.935" cvl="15.935" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="62606.223" s="1.467" fsh="1.339" fsinh="1.467" t="1.311" ct="1.311" b="0.596" fth="1.257" ftinh="1.311" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.338" v="2.453" />
+               <f t="FW TB1" o="30.934" v="2.265" />
+               <f t="SR" o="32.694" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="8" n="C9" vl="7.907" cvl="7.907" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="62606.223" s="1.459" fsh="1.338" fsinh="1.459" t="0.677" ct="0.677" b="0.596" fth="0.651" ftinh="0.677" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.316" v="2.421" />
+               <f t="FW TB1" o="30.912" v="2.265" />
+               <f t="SR" o="31.824" v="3.531" />
+          </e>
+     </w>
+     <w r="2" c="9" n="C10" vl="30.763" cvl="30.763" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="62606.223" s="1.418" fsh="0" fsinh="1.418" t="2.433" ct="2.433" b="0.592" fth="1.328" ftinh="2.433" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.302" v="2.421" />
+               <f t="FW TB1" o="30.894" v="2.328" />
+               <f t="SR" o="34.212" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="10" n="C11" vl="27.496" cvl="27.496" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="62606.223" s="1.473" fsh="0" fsinh="1.473" t="2.189" ct="2.189" b="0.58" fth="1.174" ftinh="2.189" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.3" v="2.421" />
+               <f t="FW TB1" o="30.88" v="2.25" />
+               <f t="SR" o="33.814" v="2.859" />
+          </e>
+     </w>
+     <w r="2" c="11" n="C12" vl="23.157" cvl="23.157" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="62606.223" s="1.404" fsh="0" fsinh="1.404" t="1.857" ct="1.857" b="0.597" fth="1.018" ftinh="1.857" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="62606.223" z="18080.506">
+               <f t="FW BB" o="30.268" v="2.296" />
+               <f t="FW TB1" o="30.866" v="2.125" />
+               <f t="SR" o="33.41" v="2.953" />
+          </e>
+     </w>
+     <w r="2" c="12" n="C13" vl="0" cvl="0" status="Data missing for well (3th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.26" v="2.296" />
+               <f t="EW TB" o="30.858" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="13" n="C14" vl="0" cvl="0" status="Data missing for well (3th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.579" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.27" v="2.39" />
+               <f t="EW TB" o="30.85" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="14" n="C15" vl="0" cvl="0" status="Data missing for well (3th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.242" v="2.406" />
+               <f t="EW TB" o="30.832" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="15" n="C16" vl="0" cvl="0" status="Data missing for well (3th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.236" v="2.437" />
+               <f t="EW TB" o="30.83" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="16" n="C17" vl="0" cvl="0" status="Data missing for well (3th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.244" v="2.406" />
+               <f t="EW TB" o="30.836" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="17" n="C18" vl="0" cvl="0" status="Data missing for well (3th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.25" v="2.343" />
+               <f t="EW TB" o="30.842" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="18" n="C19" vl="0" cvl="0" status="Data missing for well (3th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.26" v="2.39" />
+               <f t="EW TB" o="30.852" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="19" n="C20" vl="0" cvl="0" status="Data missing for well (3th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.276" v="2.343" />
+               <f t="EW TB" o="30.868" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="20" n="C21" vl="0" cvl="0" status="Data missing for well (3th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.359" />
+               <f t="EW TB" o="30.888" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="21" n="C22" vl="0" cvl="0" status="Data missing for well (3th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.32" v="2.375" />
+               <f t="EW TB" o="30.914" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="22" n="C23" vl="0" cvl="0" status="Data missing for well (3th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.35" v="2.375" />
+               <f t="EW TB" o="30.946" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="23" n="C24" vl="0" cvl="0" status="Data missing for well (3th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="62606.223" z="18080.506">
+               <f t="EW BB" o="30.382" v="2.453" />
+               <f t="EW TB" o="30.976" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="0" n="D1" vl="41.693" cvl="41.693" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="58124.223" s="1.449" fsh="1.428" fsinh="1.449" t="3.264" ct="3.264" b="0.596" fth="3.242" ftinh="3.264" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="58124.223" z="18080.506">
+               <f t="FW BB" o="30.512" v="2.421" />
+               <f t="FW TB1" o="31.108" v="2.359" />
+               <f t="SR" o="35.516" v="3.75" />
+          </e>
+     </w>
+     <w r="3" c="1" n="D2" vl="0" cvl="0" status="Data missing for well (4th row, 2th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.478" v="2.39" />
+               <f t="EW TB" o="31.076" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="2" n="D3" vl="14.66" cvl="14.66" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="58124.223" s="1.424" fsh="1.428" fsinh="1.424" t="1.215" ct="1.215" b="0.598" fth="1.216" ftinh="1.215" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="58124.223" z="18080.506">
+               <f t="FW BB" o="30.442" v="2.343" />
+               <f t="FW TB1" o="31.04" v="2.328" />
+               <f t="SR" o="32.694" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="3" n="D4" vl="35.406" cvl="35.406" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="58124.223" s="1.443" fsh="1.43" fsinh="1.443" t="2.787" ct="2.787" b="0.597" fth="2.775" ftinh="2.787" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="58124.223" z="18080.506">
+               <f t="FW BB" o="30.414" v="2.375" />
+               <f t="FW TB1" o="31.012" v="2.312" />
+               <f t="SR" o="34.782" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="4" n="D5" vl="0" cvl="0" status="Data missing for well (4th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.603" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.392" v="2.406" />
+               <f t="EW TB" o="30.996" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="5" n="D6" vl="0" cvl="0" status="Data missing for well (4th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.603" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.37" v="2.375" />
+               <f t="EW TB" o="30.974" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="6" n="D7" vl="0" cvl="0" status="Data missing for well (4th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.344" v="2.375" />
+               <f t="EW TB" o="30.938" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="7" n="D8" vl="0" cvl="0" status="Data missing for well (4th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.324" v="2.406" />
+               <f t="EW TB" o="30.922" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="8" n="D9" vl="0" cvl="0" status="Data missing for well (4th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.3" v="2.421" />
+               <f t="EW TB" o="30.898" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="9" n="D10" vl="0" cvl="0" status="Data missing for well (4th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.288" v="2.453" />
+               <f t="EW TB" o="30.88" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="10" n="D11" vl="0" cvl="0" status="Data missing for well (4th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.587" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.272" v="2.421" />
+               <f t="EW TB" o="30.86" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="11" n="D12" vl="0" cvl="0" status="Data missing for well (4th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.599" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.252" v="2.312" />
+               <f t="EW TB" o="30.852" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="12" n="D13" vl="0" cvl="0" status="Data missing for well (4th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.244" v="2.296" />
+               <f t="EW TB" o="30.842" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="13" n="D14" vl="0" cvl="0" status="Data missing for well (4th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.586" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.23" v="2.437" />
+               <f t="EW TB" o="30.816" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="14" n="D15" vl="0" cvl="0" status="Data missing for well (4th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.216" v="2.437" />
+               <f t="EW TB" o="30.806" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="15" n="D16" vl="0" cvl="0" status="Data missing for well (4th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.204" v="2.359" />
+               <f t="EW TB" o="30.796" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="16" n="D17" vl="0" cvl="0" status="Data missing for well (4th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.208" v="2.343" />
+               <f t="EW TB" o="30.8" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="17" n="D18" vl="0" cvl="0" status="Data missing for well (4th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.216" v="2.328" />
+               <f t="EW TB" o="30.808" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="18" n="D19" vl="0" cvl="0" status="Data missing for well (4th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.228" v="2.343" />
+               <f t="EW TB" o="30.82" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="19" n="D20" vl="0" cvl="0" status="Data missing for well (4th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.242" v="2.296" />
+               <f t="EW TB" o="30.834" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="20" n="D21" vl="0" cvl="0" status="Data missing for well (4th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.264" v="2.343" />
+               <f t="EW TB" o="30.856" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="21" n="D22" vl="0" cvl="0" status="Data missing for well (4th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.292" v="2.328" />
+               <f t="EW TB" o="30.886" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="22" n="D23" vl="0" cvl="0" status="Data missing for well (4th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.33" v="2.328" />
+               <f t="EW TB" o="30.924" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="23" n="D24" vl="0" cvl="0" status="Data missing for well (4th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="58124.223" z="18080.506">
+               <f t="EW BB" o="30.358" v="2.375" />
+               <f t="EW TB" o="30.952" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="0" n="E1" vl="60.199" cvl="60.199" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="53642.223" s="1.428" fsh="1.441" fsinh="1.428" t="4.662" ct="4.662" b="0.591" fth="4.682" ftinh="4.662" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.508" v="2.406" />
+               <f t="FW TB1" o="31.1" v="2.375" />
+               <f t="SR" o="37.438" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="1" n="E2" vl="7.752" cvl="7.752" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="53642.223" s="1.441" fsh="1.428" fsinh="1.441" t="0.664" ct="0.664" b="0.596" fth="0.662" ftinh="0.664" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.47" v="2.39" />
+               <f t="FW TB1" o="31.066" v="2.343" />
+               <f t="SR" o="31.966" v="2.468" />
+          </e>
+     </w>
+     <w r="4" c="2" n="E3" vl="0" cvl="0" status="Data missing for well (5th row, 3th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.436" v="2.296" />
+               <f t="EW TB" o="31.034" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="3" n="E4" vl="16.663" cvl="16.663" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="53642.223" s="1.424" fsh="1.424" fsinh="1.424" t="1.366" ct="1.366" b="0.596" fth="1.366" ftinh="1.366" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.41" v="2.343" />
+               <f t="FW TB1" o="31.006" v="2.328" />
+               <f t="SR" o="32.866" v="1.703" />
+          </e>
+     </w>
+     <w r="4" c="4" n="E5" vl="46.718" cvl="46.718" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="53642.223" s="1.433" fsh="1.424" fsinh="1.433" t="3.642" ct="3.642" b="0.598" fth="3.632" ftinh="3.642" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.384" v="2.343" />
+               <f t="FW TB1" o="30.982" v="2.296" />
+               <f t="SR" o="35.926" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="5" n="E6" vl="61.058" cvl="61.058" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="53642.223" s="1.434" fsh="0" fsinh="1.434" t="4.729" ct="4.729" b="0.598" fth="2.568" ftinh="4.729" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.36" v="2.312" />
+               <f t="FW TB1" o="30.958" v="2.25" />
+               <f t="SR" o="37.374" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="6" n="E7" vl="10.757" cvl="10.757" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="53642.223" s="1.441" fsh="0" fsinh="1.441" t="0.919" ct="0.919" b="0.595" fth="0.497" ftinh="0.919" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.334" v="2.343" />
+               <f t="FW TB1" o="30.93" v="2.25" />
+               <f t="SR" o="32.174" v="3.093" />
+          </e>
+     </w>
+     <w r="4" c="7" n="E8" vl="24.185" cvl="24.185" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="53642.223" s="1.438" fsh="0" fsinh="1.438" t="1.936" ct="1.936" b="0.596" fth="1.05" ftinh="1.936" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.31" v="2.375" />
+               <f t="FW TB1" o="30.906" v="2.265" />
+               <f t="SR" o="33.53" v="2.734" />
+          </e>
+     </w>
+     <w r="4" c="8" n="E9" vl="28.728" cvl="28.728" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="53642.223" s="1.436" fsh="0" fsinh="1.436" t="2.28" ct="2.28" b="0.598" fth="1.237" ftinh="2.28" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.288" v="2.359" />
+               <f t="FW TB1" o="30.886" v="2.265" />
+               <f t="SR" o="33.978" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="9" n="E10" vl="30.371" cvl="30.371" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="53642.223" s="1.469" fsh="0" fsinh="1.469" t="2.407" ct="2.407" b="0.597" fth="1.292" ftinh="2.407" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.272" v="2.343" />
+               <f t="FW TB1" o="30.87" v="2.156" />
+               <f t="SR" o="34.1" v="2.625" />
+          </e>
+     </w>
+     <w r="4" c="10" n="E11" vl="27.676" cvl="27.676" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="53642.223" s="1.436" fsh="0" fsinh="1.436" t="2.2" ct="2.2" b="0.596" fth="1.194" ftinh="2.2" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.254" v="2.375" />
+               <f t="FW TB1" o="30.85" v="2.234" />
+               <f t="SR" o="33.834" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="11" n="E12" vl="17.905" cvl="17.905" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="53642.223" s="1.472" fsh="0" fsinh="1.472" t="1.46" ct="1.46" b="0.598" fth="0.783" ftinh="1.46" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="53642.223" z="18080.506">
+               <f t="FW BB" o="30.238" v="2.296" />
+               <f t="FW TB1" o="30.836" v="2.062" />
+               <f t="SR" o="32.794" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="12" n="E13" vl="0" cvl="0" status="Data missing for well (5th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.602" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.228" v="2.296" />
+               <f t="EW TB" o="30.83" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="13" n="E14" vl="0" cvl="0" status="Data missing for well (5th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.21" v="2.328" />
+               <f t="EW TB" o="30.802" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="14" n="E15" vl="0" cvl="0" status="Data missing for well (5th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.19" v="2.328" />
+               <f t="EW TB" o="30.782" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="15" n="E16" vl="0" cvl="0" status="Data missing for well (5th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.182" v="2.312" />
+               <f t="EW TB" o="30.774" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="16" n="E17" vl="0" cvl="0" status="Data missing for well (5th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.182" v="2.312" />
+               <f t="EW TB" o="30.776" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="17" n="E18" vl="0" cvl="0" status="Data missing for well (5th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.188" v="2.296" />
+               <f t="EW TB" o="30.782" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="18" n="E19" vl="0" cvl="0" status="Data missing for well (5th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.204" v="2.265" />
+               <f t="EW TB" o="30.798" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="19" n="E20" vl="0" cvl="0" status="Data missing for well (5th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.222" v="2.265" />
+               <f t="EW TB" o="30.814" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="20" n="E21" vl="0" cvl="0" status="Data missing for well (5th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.242" v="2.296" />
+               <f t="EW TB" o="30.836" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="21" n="E22" vl="0" cvl="0" status="Data missing for well (5th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.27" v="2.312" />
+               <f t="EW TB" o="30.862" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="22" n="E23" vl="0" cvl="0" status="Data missing for well (5th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.312" />
+               <f t="EW TB" o="30.904" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="23" n="E24" vl="0" cvl="0" status="Data missing for well (5th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="53642.223" z="18080.506">
+               <f t="EW BB" o="30.342" v="2.343" />
+               <f t="EW TB" o="30.934" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="0" n="F1" vl="36.359" cvl="36.359" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="49160.223" s="1.441" fsh="1.428" fsinh="1.441" t="2.859" ct="2.859" b="0.592" fth="2.846" ftinh="2.859" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="49160.223" z="18080.506">
+               <f t="FW BB" o="30.506" v="2.375" />
+               <f t="FW TB1" o="31.098" v="2.296" />
+               <f t="SR" o="34.968" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="1" n="F2" vl="44.729" cvl="44.729" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="49160.223" s="1.434" fsh="1.415" fsinh="1.434" t="3.492" ct="3.492" b="0.596" fth="3.471" ftinh="3.492" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="49160.223" z="18080.506">
+               <f t="FW BB" o="30.468" v="2.359" />
+               <f t="FW TB1" o="31.064" v="2.328" />
+               <f t="SR" o="35.802" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="2" n="F3" vl="0" cvl="0" status="Data missing for well (6th row, 3th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.603" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.434" v="2.359" />
+               <f t="EW TB" o="31.038" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="3" n="F4" vl="37.579" cvl="37.579" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="49160.223" s="1.428" fsh="1.409" fsinh="1.428" t="2.95" ct="2.95" b="0.596" fth="2.932" ftinh="2.95" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="49160.223" z="18080.506">
+               <f t="FW BB" o="30.404" v="2.343" />
+               <f t="FW TB1" o="31" v="2.312" />
+               <f t="SR" o="35.01" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="4" n="F5" vl="0" cvl="0" status="Data missing for well (6th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.602" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.376" v="2.375" />
+               <f t="EW TB" o="30.978" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="5" n="F6" vl="0" cvl="0" status="Data missing for well (6th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.602" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.346" v="2.359" />
+               <f t="EW TB" o="30.948" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="6" n="F7" vl="0" cvl="0" status="Data missing for well (6th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.324" v="2.296" />
+               <f t="EW TB" o="30.922" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="7" n="F8" vl="0" cvl="0" status="Data missing for well (6th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.302" v="2.312" />
+               <f t="EW TB" o="30.9" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="8" n="F9" vl="0" cvl="0" status="Data missing for well (6th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.599" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.284" v="2.343" />
+               <f t="EW TB" o="30.884" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="9" n="F10" vl="0" cvl="0" status="Data missing for well (6th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.266" v="2.328" />
+               <f t="EW TB" o="30.864" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="10" n="F11" vl="0" cvl="0" status="Data missing for well (6th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.248" v="2.359" />
+               <f t="EW TB" o="30.846" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="11" n="F12" vl="0" cvl="0" status="Data missing for well (6th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.23" v="2.328" />
+               <f t="EW TB" o="30.826" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="12" n="F13" vl="0" cvl="0" status="Data missing for well (6th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.218" v="2.343" />
+               <f t="EW TB" o="30.816" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="13" n="F14" vl="0" cvl="0" status="Data missing for well (6th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.198" v="2.281" />
+               <f t="EW TB" o="30.792" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="14" n="F15" vl="0" cvl="0" status="Data missing for well (6th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.18" v="2.281" />
+               <f t="EW TB" o="30.778" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="15" n="F16" vl="0" cvl="0" status="Data missing for well (6th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.168" v="2.265" />
+               <f t="EW TB" o="30.764" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="16" n="F17" vl="0" cvl="0" status="Data missing for well (6th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.166" v="2.265" />
+               <f t="EW TB" o="30.76" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="17" n="F18" vl="0" cvl="0" status="Data missing for well (6th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.17" v="2.265" />
+               <f t="EW TB" o="30.762" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="18" n="F19" vl="0" cvl="0" status="Data missing for well (6th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.182" v="2.265" />
+               <f t="EW TB" o="30.774" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="19" n="F20" vl="0" cvl="0" status="Data missing for well (6th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.2" v="2.265" />
+               <f t="EW TB" o="30.792" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="20" n="F21" vl="0" cvl="0" status="Data missing for well (6th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.226" v="2.265" />
+               <f t="EW TB" o="30.818" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="21" n="F22" vl="0" cvl="0" status="Data missing for well (6th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.256" v="2.281" />
+               <f t="EW TB" o="30.848" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="22" n="F23" vl="0" cvl="0" status="Data missing for well (6th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.312" />
+               <f t="EW TB" o="30.886" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="23" n="F24" vl="0" cvl="0" status="Data missing for well (6th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="49160.223" z="18080.506">
+               <f t="EW BB" o="30.33" v="2.328" />
+               <f t="EW TB" o="30.92" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="0" n="G1" vl="22.484" cvl="22.484" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="44678.223" s="1.415" fsh="1.417" fsinh="1.415" t="1.806" ct="1.806" b="0.589" fth="1.808" ftinh="1.806" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.502" v="2.406" />
+               <f t="FW TB1" o="31.092" v="2.39" />
+               <f t="SR" o="33.558" v="2.671" />
+          </e>
+     </w>
+     <w r="6" c="1" n="G2" vl="55.719" cvl="55.719" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="44678.223" s="1.388" fsh="1.392" fsinh="1.388" t="4.314" ct="4.314" b="0.594" fth="4.32" ftinh="4.314" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.468" v="2.234" />
+               <f t="FW TB1" o="31.062" v="2.265" />
+               <f t="SR" o="37.002" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="2" n="G3" vl="12.504" cvl="12.504" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="44678.223" s="1.38" fsh="1.397" fsinh="1.38" t="1.053" ct="1.053" b="0.596" fth="1.059" ftinh="1.053" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.432" v="2.203" />
+               <f t="FW TB1" o="31.028" v="2.281" />
+               <f t="SR" o="32.482" v="1.921" />
+          </e>
+     </w>
+     <w r="6" c="3" n="G4" vl="18.002" cvl="18.002" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="44678.223" s="1.421" fsh="1.398" fsinh="1.421" t="1.468" ct="1.468" b="0.594" fth="1.457" ftinh="1.468" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.398" v="2.328" />
+               <f t="FW TB1" o="30.992" v="2.328" />
+               <f t="SR" o="32.992" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="4" n="G5" vl="31.78" cvl="31.78" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="44678.223" s="1.409" fsh="1.4" fsinh="1.409" t="2.509" ct="2.509" b="0.596" fth="2.502" ftinh="2.509" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.37" v="2.312" />
+               <f t="FW TB1" o="30.966" v="2.312" />
+               <f t="SR" o="34.398" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="5" n="G6" vl="26.354" cvl="26.354" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="44678.223" s="1.446" fsh="0" fsinh="1.446" t="2.101" ct="2.101" b="0.596" fth="1.136" ftinh="2.101" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.344" v="2.296" />
+               <f t="FW TB1" o="30.94" v="2.218" />
+               <f t="SR" o="33.78" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="6" n="G7" vl="30.266" cvl="30.266" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="44678.223" s="1.408" fsh="0" fsinh="1.408" t="2.394" ct="2.394" b="0.596" fth="1.311" ftinh="2.394" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.32" v="2.296" />
+               <f t="FW TB1" o="30.916" v="2.312" />
+               <f t="SR" o="34.192" v="2.781" />
+          </e>
+     </w>
+     <w r="6" c="7" n="G8" vl="29.732" cvl="29.732" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="44678.223" s="1.394" fsh="0" fsinh="1.394" t="2.353" ct="2.353" b="0.594" fth="1.294" ftinh="2.353" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.3" v="2.25" />
+               <f t="FW TB1" o="30.894" v="2.281" />
+               <f t="SR" o="34.128" v="3.046" />
+          </e>
+     </w>
+     <w r="6" c="8" n="G9" vl="25.565" cvl="25.565" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="44678.223" s="1.389" fsh="0" fsinh="1.389" t="2.038" ct="2.038" b="0.597" fth="1.123" ftinh="2.038" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.28" v="2.218" />
+               <f t="FW TB1" o="30.878" v="2.25" />
+               <f t="SR" o="33.684" v="2.062" />
+          </e>
+     </w>
+     <w r="6" c="9" n="G10" vl="25.518" cvl="25.518" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="44678.223" s="1.429" fsh="0" fsinh="1.429" t="2.037" ct="2.037" b="0.596" fth="1.107" ftinh="2.037" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.266" v="2.281" />
+               <f t="FW TB1" o="30.862" v="2.187" />
+               <f t="SR" o="33.63" v="2.515" />
+          </e>
+     </w>
+     <w r="6" c="10" n="G11" vl="26.817" cvl="26.817" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="44678.223" s="1.407" fsh="0" fsinh="1.407" t="2.134" ct="2.134" b="0.596" fth="1.168" ftinh="2.134" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.248" v="2.234" />
+               <f t="FW TB1" o="30.844" v="2.171" />
+               <f t="SR" o="33.764" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="11" n="G12" vl="29.811" cvl="29.811" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="44678.223" s="1.457" fsh="0" fsinh="1.457" t="2.364" ct="2.364" b="0.594" fth="1.274" ftinh="2.364" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="44678.223" z="18080.506">
+               <f t="FW BB" o="30.224" v="2.296" />
+               <f t="FW TB1" o="30.818" v="2.046" />
+               <f t="SR" o="34.002" v="3.078" />
+          </e>
+     </w>
+     <w r="6" c="12" n="G13" vl="0" cvl="0" status="Data missing for well (7th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.212" v="2.312" />
+               <f t="EW TB" o="30.806" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="13" n="G14" vl="0" cvl="0" status="Data missing for well (7th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.196" v="2.296" />
+               <f t="EW TB" o="30.79" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="14" n="G15" vl="0" cvl="0" status="Data missing for well (7th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.178" v="2.296" />
+               <f t="EW TB" o="30.772" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="15" n="G16" vl="0" cvl="0" status="Data missing for well (7th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.164" v="2.265" />
+               <f t="EW TB" o="30.758" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="16" n="G17" vl="0" cvl="0" status="Data missing for well (7th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.16" v="2.218" />
+               <f t="EW TB" o="30.754" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="17" n="G18" vl="0" cvl="0" status="Data missing for well (7th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.162" v="2.265" />
+               <f t="EW TB" o="30.754" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="18" n="G19" vl="0" cvl="0" status="Data missing for well (7th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.17" v="2.218" />
+               <f t="EW TB" o="30.76" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="19" n="G20" vl="0" cvl="0" status="Data missing for well (7th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.186" v="2.312" />
+               <f t="EW TB" o="30.778" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="20" n="G21" vl="0" cvl="0" status="Data missing for well (7th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.214" v="2.25" />
+               <f t="EW TB" o="30.804" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="21" n="G22" vl="0" cvl="0" status="Data missing for well (7th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.246" v="2.25" />
+               <f t="EW TB" o="30.836" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="22" n="G23" vl="0" cvl="0" status="Data missing for well (7th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.288" v="2.281" />
+               <f t="EW TB" o="30.878" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="23" n="G24" vl="0" cvl="0" status="Data missing for well (7th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="44678.223" z="18080.506">
+               <f t="EW BB" o="30.326" v="2.281" />
+               <f t="EW TB" o="30.91" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="0" n="H1" vl="27.501" cvl="27.501" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="40196.223" s="1.417" fsh="1.415" fsinh="1.417" t="2.186" ct="2.186" b="0.583" fth="2.185" ftinh="2.186" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="40196.223" z="18080.506">
+               <f t="FW BB" o="30.508" v="2.437" />
+               <f t="FW TB1" o="31.092" v="2.39" />
+               <f t="SR" o="34.074" v="2.921" />
+          </e>
+     </w>
+     <w r="7" c="1" n="H2" vl="43.156" cvl="43.156" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="40196.223" s="1.39" fsh="1.392" fsinh="1.39" t="3.366" ct="3.366" b="0.589" fth="3.369" ftinh="3.366" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="40196.223" z="18080.506">
+               <f t="FW BB" o="30.47" v="2.328" />
+               <f t="FW TB1" o="31.06" v="2.39" />
+               <f t="SR" o="35.692" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="2" n="H3" vl="45.094" cvl="45.094" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="40196.223" s="1.392" fsh="1.391" fsinh="1.392" t="3.513" ct="3.513" b="0.592" fth="3.511" ftinh="3.513" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="40196.223" z="18080.506">
+               <f t="FW BB" o="30.436" v="2.328" />
+               <f t="FW TB1" o="31.028" v="2.375" />
+               <f t="SR" o="35.858" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="3" n="H4" vl="61.032" cvl="61.032" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="40196.223" s="1.383" fsh="1.391" fsinh="1.383" t="4.713" ct="4.713" b="0.591" fth="4.725" ftinh="4.713" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="40196.223" z="18080.506">
+               <f t="FW BB" o="30.406" v="2.312" />
+               <f t="FW TB1" o="30.998" v="2.359" />
+               <f t="SR" o="37.498" v="0" />
+          </e>
+     </w>
+     <w r="7" c="4" n="H5" vl="0" cvl="0" status="Data missing for well (8th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.38" v="2.343" />
+               <f t="EW TB" o="30.978" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="5" n="H6" vl="0" cvl="0" status="Data missing for well (8th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.352" v="2.359" />
+               <f t="EW TB" o="30.952" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="6" n="H7" vl="0" cvl="0" status="Data missing for well (8th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.595" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.328" v="2.328" />
+               <f t="EW TB" o="30.924" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="7" n="H8" vl="0" cvl="0" status="Data missing for well (8th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.306" v="2.265" />
+               <f t="EW TB" o="30.902" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="8" n="H9" vl="0" cvl="0" status="Data missing for well (8th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.288" v="2.234" />
+               <f t="EW TB" o="30.884" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="9" n="H10" vl="0" cvl="0" status="Data missing for well (8th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.595" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.27" v="2.312" />
+               <f t="EW TB" o="30.866" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="10" n="H11" vl="0" cvl="0" status="Data missing for well (8th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.25" v="2.25" />
+               <f t="EW TB" o="30.846" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="11" n="H12" vl="0" cvl="0" status="Data missing for well (8th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.226" v="2.203" />
+               <f t="EW TB" o="30.818" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="12" n="H13" vl="0" cvl="0" status="Data missing for well (8th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.212" v="2.312" />
+               <f t="EW TB" o="30.802" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="13" n="H14" vl="0" cvl="0" status="Data missing for well (8th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.2" v="2.25" />
+               <f t="EW TB" o="30.79" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="14" n="H15" vl="0" cvl="0" status="Data missing for well (8th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.182" v="2.265" />
+               <f t="EW TB" o="30.774" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="15" n="H16" vl="0" cvl="0" status="Data missing for well (8th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.168" v="2.265" />
+               <f t="EW TB" o="30.76" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="16" n="H17" vl="0" cvl="0" status="Data missing for well (8th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.164" v="2.25" />
+               <f t="EW TB" o="30.754" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="17" n="H18" vl="0" cvl="0" status="Data missing for well (8th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.164" v="2.265" />
+               <f t="EW TB" o="30.752" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="18" n="H19" vl="0" cvl="0" status="Data missing for well (8th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.172" v="2.25" />
+               <f t="EW TB" o="30.76" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="19" n="H20" vl="0" cvl="0" status="Data missing for well (8th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.19" v="2.25" />
+               <f t="EW TB" o="30.776" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="20" n="H21" vl="0" cvl="0" status="Data missing for well (8th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.214" v="2.25" />
+               <f t="EW TB" o="30.8" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="21" n="H22" vl="0" cvl="0" status="Data missing for well (8th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.246" v="2.265" />
+               <f t="EW TB" o="30.834" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="22" n="H23" vl="0" cvl="0" status="Data missing for well (8th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.284" v="2.25" />
+               <f t="EW TB" o="30.87" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="23" n="H24" vl="0" cvl="0" status="Data missing for well (8th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.58" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="40196.223" z="18080.506">
+               <f t="EW BB" o="30.32" v="2.359" />
+               <f t="EW TB" o="30.9" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="0" n="I1" vl="24.281" cvl="24.281" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="35714.223" s="1.427" fsh="1.415" fsinh="1.427" t="1.943" ct="1.943" b="0.581" fth="1.935" ftinh="1.943" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.508" v="2.39" />
+               <f t="FW TB1" o="31.09" v="2.296" />
+               <f t="SR" o="33.732" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="1" n="I2" vl="11.086" cvl="11.086" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="35714.223" s="1.415" fsh="1.393" fsinh="1.415" t="0.945" ct="0.945" b="0.587" fth="0.938" ftinh="0.945" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.47" v="2.343" />
+               <f t="FW TB1" o="31.058" v="2.359" />
+               <f t="SR" o="32.348" v="2.453" />
+          </e>
+     </w>
+     <w r="8" c="2" n="I3" vl="0" cvl="0" status="Data missing for well (9th row, 3th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.754" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.44" v="2.343" />
+               <f t="EW TB" o="31.194" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="3" n="I4" vl="21.681" cvl="21.681" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="35714.223" s="1.409" fsh="1.396" fsinh="1.409" t="1.746" ct="1.746" b="0.589" fth="1.739" ftinh="1.746" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.408" v="2.375" />
+               <f t="FW TB1" o="30.998" v="2.359" />
+               <f t="SR" o="33.386" v="1.625" />
+          </e>
+     </w>
+     <w r="8" c="4" n="I5" vl="57.289" cvl="57.289" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="35714.223" s="1.451" fsh="1.392" fsinh="1.451" t="4.447" ct="4.447" b="0.591" fth="4.364" ftinh="4.447" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.38" v="2.359" />
+               <f t="FW TB1" o="30.972" v="2.25" />
+               <f t="SR" o="36.974" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="5" n="I6" vl="18.201" cvl="18.201" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="35714.223" s="1.437" fsh="0" fsinh="1.437" t="1.483" ct="1.483" b="0.591" fth="0.804" ftinh="1.483" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.356" v="2.39" />
+               <f t="FW TB1" o="30.948" v="2.312" />
+               <f t="SR" o="32.958" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="6" n="I7" vl="22.63" cvl="22.63" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="35714.223" s="1.444" fsh="0" fsinh="1.444" t="1.818" ct="1.818" b="0.594" fth="0.984" ftinh="1.818" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.332" v="2.406" />
+               <f t="FW TB1" o="30.926" v="2.296" />
+               <f t="SR" o="33.386" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="7" n="I8" vl="25.213" cvl="25.213" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="35714.223" s="1.422" fsh="0" fsinh="1.422" t="2.013" ct="2.013" b="0.593" fth="1.097" ftinh="2.013" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.31" v="2.328" />
+               <f t="FW TB1" o="30.904" v="2.281" />
+               <f t="SR" o="33.646" v="3.937" />
+          </e>
+     </w>
+     <w r="8" c="8" n="I9" vl="27.57" cvl="27.57" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="35714.223" s="1.419" fsh="0" fsinh="1.419" t="2.191" ct="2.191" b="0.596" fth="1.196" ftinh="2.191" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.29" v="2.25" />
+               <f t="FW TB1" o="30.886" v="2.203" />
+               <f t="SR" o="33.874" v="2.843" />
+          </e>
+     </w>
+     <w r="8" c="9" n="I10" vl="31.559" cvl="31.559" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="35714.223" s="1.479" fsh="0" fsinh="1.479" t="2.498" ct="2.498" b="0.593" fth="1.337" ftinh="2.498" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.272" v="2.296" />
+               <f t="FW TB1" o="30.866" v="2.062" />
+               <f t="SR" o="34.208" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="10" n="I11" vl="29.868" cvl="29.868" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="35714.223" s="1.455" fsh="0" fsinh="1.455" t="2.368" ct="2.368" b="0.593" fth="1.277" ftinh="2.368" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.252" v="2.281" />
+               <f t="FW TB1" o="30.846" v="2.062" />
+               <f t="SR" o="34.038" v="3.968" />
+          </e>
+     </w>
+     <w r="8" c="11" n="I12" vl="7.447" cvl="7.447" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="35714.223" s="1.449" fsh="0" fsinh="1.449" t="0.638" ct="0.638" b="0.591" fth="0.345" ftinh="0.638" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="35714.223" z="18080.506">
+               <f t="FW BB" o="30.228" v="2.343" />
+               <f t="FW TB1" o="30.82" v="2" />
+               <f t="SR" o="31.682" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="12" n="I13" vl="0" cvl="0" status="Data missing for well (9th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.21" v="2.312" />
+               <f t="EW TB" o="30.802" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="13" n="I14" vl="0" cvl="0" status="Data missing for well (9th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.202" v="2.25" />
+               <f t="EW TB" o="30.792" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="14" n="I15" vl="0" cvl="0" status="Data missing for well (9th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.184" v="2.265" />
+               <f t="EW TB" o="30.774" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="15" n="I16" vl="0" cvl="0" status="Data missing for well (9th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.174" v="2.281" />
+               <f t="EW TB" o="30.762" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="16" n="I17" vl="0" cvl="0" status="Data missing for well (9th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.166" v="2.265" />
+               <f t="EW TB" o="30.756" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="17" n="I18" vl="0" cvl="0" status="Data missing for well (9th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.587" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.168" v="2.265" />
+               <f t="EW TB" o="30.756" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="18" n="I19" vl="0" cvl="0" status="Data missing for well (9th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.176" v="2.265" />
+               <f t="EW TB" o="30.764" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="19" n="I20" vl="0" cvl="0" status="Data missing for well (9th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.192" v="2.281" />
+               <f t="EW TB" o="30.776" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="20" n="I21" vl="0" cvl="0" status="Data missing for well (9th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.214" v="2.296" />
+               <f t="EW TB" o="30.8" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="21" n="I22" vl="0" cvl="0" status="Data missing for well (9th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.248" v="2.281" />
+               <f t="EW TB" o="30.832" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="22" n="I23" vl="0" cvl="0" status="Data missing for well (9th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.286" v="2.281" />
+               <f t="EW TB" o="30.87" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="23" n="I24" vl="0" cvl="0" status="Data missing for well (9th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.577" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="35714.223" z="18080.506">
+               <f t="EW BB" o="30.326" v="2.39" />
+               <f t="EW TB" o="30.904" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="0" n="J1" vl="30.205" cvl="30.205" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="31232.223" s="1.393" fsh="1.412" fsinh="1.393" t="2.389" ct="2.389" b="0.589" fth="2.403" ftinh="2.389" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="31232.223" z="18080.506">
+               <f t="FW BB" o="30.508" v="2.296" />
+               <f t="FW TB1" o="31.098" v="2.359" />
+               <f t="SR" o="34.382" v="3.281" />
+          </e>
+     </w>
+     <w r="9" c="1" n="J2" vl="31.649" cvl="31.649" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="31232.223" s="1.389" fsh="1.401" fsinh="1.389" t="2.497" ct="2.497" b="0.594" fth="2.507" ftinh="2.497" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="31232.223" z="18080.506">
+               <f t="FW BB" o="30.478" v="2.296" />
+               <f t="FW TB1" o="31.072" v="2.312" />
+               <f t="SR" o="34.51" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="2" n="J3" vl="17.497" cvl="17.497" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="31232.223" s="1.398" fsh="1.399" fsinh="1.398" t="1.429" ct="1.429" b="0.594" fth="1.43" ftinh="1.429" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="31232.223" z="18080.506">
+               <f t="FW BB" o="30.44" v="2.296" />
+               <f t="FW TB1" o="31.034" v="2.328" />
+               <f t="SR" o="32.996" v="3.375" />
+          </e>
+     </w>
+     <w r="9" c="3" n="J4" vl="13.027" cvl="13.027" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="31232.223" s="1.423" fsh="1.398" fsinh="1.423" t="1.091" ct="1.091" b="0.593" fth="1.082" ftinh="1.091" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="31232.223" z="18080.506">
+               <f t="FW BB" o="30.406" v="2.359" />
+               <f t="FW TB1" o="31" v="2.359" />
+               <f t="SR" o="32.486" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="4" n="J5" vl="0" cvl="0" status="Data missing for well (10th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.38" v="2.234" />
+               <f t="EW TB" o="30.978" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="5" n="J6" vl="0" cvl="0" status="Data missing for well (10th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.358" v="2.281" />
+               <f t="EW TB" o="30.95" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="6" n="J7" vl="0" cvl="0" status="Data missing for well (10th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.328" v="2.171" />
+               <f t="EW TB" o="30.926" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="7" n="J8" vl="0" cvl="0" status="Data missing for well (10th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.308" v="2.343" />
+               <f t="EW TB" o="30.906" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="8" n="J9" vl="0" cvl="0" status="Data missing for well (10th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.288" v="2.312" />
+               <f t="EW TB" o="30.886" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="9" n="J10" vl="0" cvl="0" status="Data missing for well (10th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.272" v="2.328" />
+               <f t="EW TB" o="30.87" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="10" n="J11" vl="0" cvl="0" status="Data missing for well (10th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.256" v="2.296" />
+               <f t="EW TB" o="30.852" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="11" n="J12" vl="0" cvl="0" status="Data missing for well (10th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.232" v="2.296" />
+               <f t="EW TB" o="30.826" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="12" n="J13" vl="0" cvl="0" status="Data missing for well (10th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.216" v="2.296" />
+               <f t="EW TB" o="30.81" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="13" n="J14" vl="0" cvl="0" status="Data missing for well (10th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.2" v="2.265" />
+               <f t="EW TB" o="30.794" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="14" n="J15" vl="0" cvl="0" status="Data missing for well (10th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.186" v="2.265" />
+               <f t="EW TB" o="30.78" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="15" n="J16" vl="0" cvl="0" status="Data missing for well (10th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.17" v="2.25" />
+               <f t="EW TB" o="30.762" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="16" n="J17" vl="0" cvl="0" status="Data missing for well (10th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.164" v="2.234" />
+               <f t="EW TB" o="30.756" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="17" n="J18" vl="0" cvl="0" status="Data missing for well (10th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.166" v="2.234" />
+               <f t="EW TB" o="30.758" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="18" n="J19" vl="0" cvl="0" status="Data missing for well (10th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.59" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.174" v="2.218" />
+               <f t="EW TB" o="30.764" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="19" n="J20" vl="0" cvl="0" status="Data missing for well (10th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.19" v="2.234" />
+               <f t="EW TB" o="30.78" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="20" n="J21" vl="0" cvl="0" status="Data missing for well (10th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.214" v="2.234" />
+               <f t="EW TB" o="30.804" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="21" n="J22" vl="0" cvl="0" status="Data missing for well (10th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.25" v="2.25" />
+               <f t="EW TB" o="30.838" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="22" n="J23" vl="0" cvl="0" status="Data missing for well (10th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.292" v="2.281" />
+               <f t="EW TB" o="30.88" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="23" n="J24" vl="0" cvl="0" status="Data missing for well (10th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.581" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="31232.223" z="18080.506">
+               <f t="EW BB" o="30.328" v="2.312" />
+               <f t="EW TB" o="30.91" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="0" n="K1" vl="26.039" cvl="26.039" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="26750.223" s="1.412" fsh="1.412" fsinh="1.412" t="2.075" ct="2.075" b="0.591" fth="2.075" ftinh="2.075" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.516" v="2.375" />
+               <f t="FW TB1" o="31.108" v="2.39" />
+               <f t="SR" o="33.944" v="3.515" />
+          </e>
+     </w>
+     <w r="10" c="1" n="K2" vl="6.794" cvl="6.794" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="26750.223" s="1.403" fsh="1.403" fsinh="1.403" t="0.583" ct="0.583" b="0.596" fth="0.583" ftinh="0.583" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.48" v="2.312" />
+               <f t="FW TB1" o="31.076" v="2.359" />
+               <f t="SR" o="31.876" v="1.906" />
+          </e>
+     </w>
+     <w r="10" c="2" n="K3" vl="62.021" cvl="62.021" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="26750.223" s="1.401" fsh="1.408" fsinh="1.401" t="4.793" ct="4.793" b="0.597" fth="4.803" ftinh="4.793" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.444" v="2.296" />
+               <f t="FW TB1" o="31.042" v="2.359" />
+               <f t="SR" o="37.614" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="3" n="K4" vl="25.617" cvl="25.617" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="26750.223" s="1.417" fsh="1.4" fsinh="1.417" t="2.043" ct="2.043" b="0.596" fth="2.033" ftinh="2.043" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.414" v="2.312" />
+               <f t="FW TB1" o="31.01" v="2.328" />
+               <f t="SR" o="33.798" v="3.109" />
+          </e>
+     </w>
+     <w r="10" c="4" n="K5" vl="12.969" cvl="12.969" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="26750.223" s="1.346" fsh="0" fsinh="1.346" t="1.089" ct="1.089" b="0.596" fth="0.608" ftinh="1.089" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.388" v="2.171" />
+               <f t="FW TB1" o="30.984" v="2.328" />
+               <f t="SR" o="32.504" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="5" n="K6" vl="24.912" cvl="24.912" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="26750.223" s="1.351" fsh="0" fsinh="1.351" t="1.987" ct="1.987" b="0.596" fth="1.108" ftinh="1.987" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.36" v="2.171" />
+               <f t="FW TB1" o="30.956" v="2.312" />
+               <f t="SR" o="33.726" v="1.968" />
+          </e>
+     </w>
+     <w r="10" c="6" n="K7" vl="24.589" cvl="24.589" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="26750.223" s="1.334" fsh="0" fsinh="1.334" t="1.962" ct="1.962" b="0.597" fth="1.1" ftinh="1.962" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.332" v="2.109" />
+               <f t="FW TB1" o="30.93" v="2.281" />
+               <f t="SR" o="33.68" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="7" n="K8" vl="28.373" cvl="28.373" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="26750.223" s="1.289" fsh="0" fsinh="1.289" t="2.244" ct="2.244" b="0.596" fth="1.277" ftinh="2.244" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.31" v="2" />
+               <f t="FW TB1" o="30.906" v="2.265" />
+               <f t="SR" o="34.098" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="8" n="K9" vl="24.439" cvl="24.439" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="26750.223" s="1.405" fsh="0" fsinh="1.405" t="1.954" ct="1.954" b="0.597" fth="1.071" ftinh="1.954" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.29" v="2.312" />
+               <f t="FW TB1" o="30.888" v="2.312" />
+               <f t="SR" o="33.564" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="9" n="K10" vl="26.751" cvl="26.751" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="26750.223" s="1.423" fsh="0" fsinh="1.423" t="2.13" ct="2.13" b="0.597" fth="1.16" ftinh="2.13" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.27" v="2.343" />
+               <f t="FW TB1" o="30.868" v="2.281" />
+               <f t="SR" o="33.768" v="2.187" />
+          </e>
+     </w>
+     <w r="10" c="10" n="K11" vl="23.048" cvl="23.048" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="26750.223" s="1.434" fsh="0" fsinh="1.434" t="1.85" ct="1.85" b="0.596" fth="1.004" ftinh="1.85" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.258" v="2.328" />
+               <f t="FW TB1" o="30.854" v="2.25" />
+               <f t="SR" o="33.364" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="11" n="K12" vl="25.267" cvl="25.267" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="26750.223" s="1.454" fsh="0" fsinh="1.454" t="2.019" ct="2.019" b="0.596" fth="1.089" ftinh="2.019" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="26750.223" z="18080.506">
+               <f t="FW BB" o="30.24" v="2.312" />
+               <f t="FW TB1" o="30.836" v="2.062" />
+               <f t="SR" o="33.558" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="12" n="K13" vl="0" cvl="0" status="Data missing for well (11th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.222" v="2.25" />
+               <f t="EW TB" o="30.82" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="13" n="K14" vl="0" cvl="0" status="Data missing for well (11th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.204" v="2.281" />
+               <f t="EW TB" o="30.798" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="14" n="K15" vl="0" cvl="0" status="Data missing for well (11th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.188" v="2.265" />
+               <f t="EW TB" o="30.782" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="15" n="K16" vl="0" cvl="0" status="Data missing for well (11th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.18" v="2.265" />
+               <f t="EW TB" o="30.774" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="16" n="K17" vl="0" cvl="0" status="Data missing for well (11th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.176" v="2.234" />
+               <f t="EW TB" o="30.768" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="17" n="K18" vl="0" cvl="0" status="Data missing for well (11th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.178" v="2.203" />
+               <f t="EW TB" o="30.77" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="18" n="K19" vl="0" cvl="0" status="Data missing for well (11th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.19" v="2.234" />
+               <f t="EW TB" o="30.782" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="19" n="K20" vl="0" cvl="0" status="Data missing for well (11th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.206" v="2.218" />
+               <f t="EW TB" o="30.798" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="20" n="K21" vl="0" cvl="0" status="Data missing for well (11th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.23" v="2.218" />
+               <f t="EW TB" o="30.82" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="21" n="K22" vl="0" cvl="0" status="Data missing for well (11th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.262" v="2.25" />
+               <f t="EW TB" o="30.852" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="22" n="K23" vl="0" cvl="0" status="Data missing for well (11th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.302" v="2.281" />
+               <f t="EW TB" o="30.89" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="23" n="K24" vl="0" cvl="0" status="Data missing for well (11th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="26750.223" z="18080.506">
+               <f t="EW BB" o="30.338" v="2.312" />
+               <f t="EW TB" o="30.924" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="0" n="L1" vl="16.594" cvl="16.594" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="22268.223" s="1.429" fsh="1.421" fsinh="1.429" t="1.361" ct="1.361" b="0.593" fth="1.357" ftinh="1.361" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="22268.223" z="18080.506">
+               <f t="FW BB" o="30.528" v="2.39" />
+               <f t="FW TB1" o="31.122" v="2.39" />
+               <f t="SR" o="32.972" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="1" n="L2" vl="16.426" cvl="16.426" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="22268.223" s="1.427" fsh="1.423" fsinh="1.427" t="1.348" ct="1.348" b="0.596" fth="1.347" ftinh="1.348" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="22268.223" z="18080.506">
+               <f t="FW BB" o="30.49" v="2.39" />
+               <f t="FW TB1" o="31.086" v="2.39" />
+               <f t="SR" o="32.92" v="1.75" />
+          </e>
+     </w>
+     <w r="11" c="2" n="L3" vl="30.793" cvl="30.793" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="22268.223" s="1.44" fsh="1.416" fsinh="1.44" t="2.437" ct="2.437" b="0.596" fth="2.418" ftinh="2.437" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="22268.223" z="18080.506">
+               <f t="FW BB" o="30.454" v="2.406" />
+               <f t="FW TB1" o="31.05" v="2.359" />
+               <f t="SR" o="34.35" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="3" n="L4" vl="0" cvl="0" status="Data missing for well (12th row, 4th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.664" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.424" v="2.359" />
+               <f t="EW TB" o="31.088" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="4" n="L5" vl="0" cvl="0" status="Data missing for well (12th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.602" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.398" v="2.265" />
+               <f t="EW TB" o="31" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="5" n="L6" vl="0" cvl="0" status="Data missing for well (12th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.372" v="2.203" />
+               <f t="EW TB" o="30.972" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="6" n="L7" vl="0" cvl="0" status="Data missing for well (12th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.344" v="2.171" />
+               <f t="EW TB" o="30.944" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="7" n="L8" vl="0" cvl="0" status="Data missing for well (12th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.32" v="2.265" />
+               <f t="EW TB" o="30.92" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="8" n="L9" vl="0" cvl="0" status="Data missing for well (12th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.298" v="2.375" />
+               <f t="EW TB" o="30.894" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="9" n="L10" vl="0" cvl="0" status="Data missing for well (12th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.282" v="2.343" />
+               <f t="EW TB" o="30.878" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="10" n="L11" vl="0" cvl="0" status="Data missing for well (12th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.264" v="2.296" />
+               <f t="EW TB" o="30.858" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="11" n="L12" vl="0" cvl="0" status="Data missing for well (12th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.25" v="2.265" />
+               <f t="EW TB" o="30.848" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="12" n="L13" vl="0" cvl="0" status="Data missing for well (12th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.598" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.238" v="2.265" />
+               <f t="EW TB" o="30.836" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="13" n="L14" vl="0" cvl="0" status="Data missing for well (12th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.218" v="2.234" />
+               <f t="EW TB" o="30.81" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="14" n="L15" vl="0" cvl="0" status="Data missing for well (12th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.206" v="2.296" />
+               <f t="EW TB" o="30.798" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="15" n="L16" vl="0" cvl="0" status="Data missing for well (12th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.194" v="2.265" />
+               <f t="EW TB" o="30.786" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="16" n="L17" vl="0" cvl="0" status="Data missing for well (12th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.192" v="2.25" />
+               <f t="EW TB" o="30.786" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="17" n="L18" vl="0" cvl="0" status="Data missing for well (12th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.2" v="2.234" />
+               <f t="EW TB" o="30.792" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="18" n="L19" vl="0" cvl="0" status="Data missing for well (12th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.21" v="2.234" />
+               <f t="EW TB" o="30.802" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="19" n="L20" vl="0" cvl="0" status="Data missing for well (12th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.224" v="2.234" />
+               <f t="EW TB" o="30.816" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="20" n="L21" vl="0" cvl="0" status="Data missing for well (12th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.244" v="2.25" />
+               <f t="EW TB" o="30.836" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="21" n="L22" vl="0" cvl="0" status="Data missing for well (12th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.276" v="2.25" />
+               <f t="EW TB" o="30.866" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="22" n="L23" vl="0" cvl="0" status="Data missing for well (12th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.316" v="2.25" />
+               <f t="EW TB" o="30.906" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="23" n="L24" vl="0" cvl="0" status="Data missing for well (12th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="22268.223" z="18080.506">
+               <f t="EW BB" o="30.352" v="2.281" />
+               <f t="EW TB" o="30.94" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="0" n="M1" vl="7.266" cvl="7.266" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="17786.223" s="1.421" fsh="1.422" fsinh="1.421" t="0.623" ct="0.623" b="0.596" fth="0.624" ftinh="0.623" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.536" v="2.421" />
+               <f t="FW TB1" o="31.132" v="2.468" />
+               <f t="SR" o="31.982" v="3.171" />
+          </e>
+     </w>
+     <w r="12" c="1" n="M2" vl="8.402" cvl="8.402" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="17786.223" s="1.434" fsh="1.423" fsinh="1.434" t="0.72" ct="0.72" b="0.599" fth="0.718" ftinh="0.72" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.496" v="2.437" />
+               <f t="FW TB1" o="31.096" v="2.437" />
+               <f t="SR" o="32.074" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="2" n="M3" vl="27.781" cvl="27.781" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="17786.223" s="1.423" fsh="1.423" fsinh="1.423" t="2.208" ct="2.208" b="0.596" fth="2.207" ftinh="2.208" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.466" v="2.359" />
+               <f t="FW TB1" o="31.062" v="2.375" />
+               <f t="SR" o="34.068" v="2.812" />
+          </e>
+     </w>
+     <w r="12" c="3" n="M4" vl="69.367" cvl="69.367" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="17786.223" s="1.425" fsh="1.415" fsinh="1.425" t="5.355" ct="5.355" b="0.596" fth="5.337" ftinh="5.355" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.434" v="2.359" />
+               <f t="FW TB1" o="31.03" v="2.359" />
+               <f t="SR" o="38.316" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="4" n="M5" vl="23.966" cvl="23.966" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="17786.223" s="1.429" fsh="0" fsinh="1.429" t="1.919" ct="1.919" b="0.596" fth="1.043" ftinh="1.919" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.406" v="2.375" />
+               <f t="FW TB1" o="31.002" v="2.359" />
+               <f t="SR" o="33.61" v="1.953" />
+          </e>
+     </w>
+     <w r="12" c="5" n="M6" vl="22.374" cvl="22.374" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="17786.223" s="1.4" fsh="0" fsinh="1.4" t="1.798" ct="1.798" b="0.597" fth="0.987" ftinh="1.798" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.382" v="2.265" />
+               <f t="FW TB1" o="30.98" v="2.296" />
+               <f t="SR" o="33.446" v="2.5" />
+          </e>
+     </w>
+     <w r="12" c="6" n="M7" vl="31.289" cvl="31.289" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="17786.223" s="1.398" fsh="0" fsinh="1.398" t="2.471" ct="2.471" b="0.598" fth="1.357" ftinh="2.471" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.358" v="2.25" />
+               <f t="FW TB1" o="30.956" v="2.281" />
+               <f t="SR" o="34.348" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="7" n="M8" vl="23.097" cvl="23.097" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="17786.223" s="1.363" fsh="0" fsinh="1.363" t="1.851" ct="1.851" b="0.6" fth="1.028" ftinh="1.851" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.332" v="2.187" />
+               <f t="FW TB1" o="30.932" v="2.265" />
+               <f t="SR" o="33.502" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="8" n="M9" vl="24.882" cvl="24.882" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="17786.223" s="1.342" fsh="0" fsinh="1.342" t="1.985" ct="1.985" b="0.597" fth="1.11" ftinh="1.985" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.31" v="2.171" />
+               <f t="FW TB1" o="30.908" v="2.296" />
+               <f t="SR" o="33.682" v="2.312" />
+          </e>
+     </w>
+     <w r="12" c="9" n="M10" vl="31.168" cvl="31.168" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="17786.223" s="1.407" fsh="0" fsinh="1.407" t="2.463" ct="2.463" b="0.596" fth="1.348" ftinh="2.463" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.294" v="2.343" />
+               <f t="FW TB1" o="30.89" v="2.296" />
+               <f t="SR" o="34.26" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="10" n="M11" vl="23.158" cvl="23.158" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="17786.223" s="1.402" fsh="0" fsinh="1.402" t="1.857" ct="1.857" b="0.589" fth="1.019" ftinh="1.857" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.284" v="2.312" />
+               <f t="FW TB1" o="30.874" v="2.296" />
+               <f t="SR" o="33.42" v="3.437" />
+          </e>
+     </w>
+     <w r="12" c="11" n="M12" vl="28.423" cvl="28.423" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="17786.223" s="1.476" fsh="0" fsinh="1.476" t="2.26" ct="2.26" b="0.599" fth="1.211" ftinh="2.26" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="17786.223" z="18080.506">
+               <f t="FW BB" o="30.264" v="2.296" />
+               <f t="FW TB1" o="30.864" v="1.984" />
+               <f t="SR" o="33.89" v="2.765" />
+          </e>
+     </w>
+     <w r="12" c="12" n="M13" vl="0" cvl="0" status="Data missing for well (13th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.254" v="2.265" />
+               <f t="EW TB" o="30.852" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="13" n="M14" vl="0" cvl="0" status="Data missing for well (13th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.24" v="2.312" />
+               <f t="EW TB" o="30.828" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="14" n="M15" vl="0" cvl="0" status="Data missing for well (13th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.224" v="2.312" />
+               <f t="EW TB" o="30.816" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="15" n="M16" vl="0" cvl="0" status="Data missing for well (13th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.218" v="2.281" />
+               <f t="EW TB" o="30.812" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="16" n="M17" vl="0" cvl="0" status="Data missing for well (13th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.22" v="2.234" />
+               <f t="EW TB" o="30.812" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="17" n="M18" vl="0" cvl="0" status="Data missing for well (13th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.222" v="2.25" />
+               <f t="EW TB" o="30.816" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="18" n="M19" vl="0" cvl="0" status="Data missing for well (13th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.232" v="2.25" />
+               <f t="EW TB" o="30.826" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="19" n="M20" vl="0" cvl="0" status="Data missing for well (13th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.248" v="2.25" />
+               <f t="EW TB" o="30.84" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="20" n="M21" vl="0" cvl="0" status="Data missing for well (13th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.268" v="2.25" />
+               <f t="EW TB" o="30.86" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="21" n="M22" vl="0" cvl="0" status="Data missing for well (13th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.296" v="2.25" />
+               <f t="EW TB" o="30.888" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="22" n="M23" vl="0" cvl="0" status="Data missing for well (13th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.336" v="2.234" />
+               <f t="EW TB" o="30.928" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="23" n="M24" vl="0" cvl="0" status="Data missing for well (13th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="17786.223" z="18080.506">
+               <f t="EW BB" o="30.372" v="2.312" />
+               <f t="EW TB" o="30.962" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="0" n="N1" vl="42.547" cvl="42.547" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="13304.223" s="1.422" fsh="1.422" fsinh="1.422" t="3.325" ct="3.325" b="0.593" fth="3.325" ftinh="3.325" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="13304.223" z="18080.506">
+               <f t="FW BB" o="30.546" v="2.375" />
+               <f t="FW TB1" o="31.14" v="2.421" />
+               <f t="SR" o="35.668" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="1" n="N2" vl="45.247" cvl="45.247" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="13304.223" s="1.416" fsh="1.422" fsinh="1.416" t="3.528" ct="3.528" b="0.596" fth="3.535" ftinh="3.528" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="13304.223" z="18080.506">
+               <f t="FW BB" o="30.512" v="2.328" />
+               <f t="FW TB1" o="31.108" v="2.406" />
+               <f t="SR" o="35.922" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="2" n="N3" vl="15.629" cvl="15.629" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="13304.223" s="1.42" fsh="1.423" fsinh="1.42" t="1.288" ct="1.288" b="0.597" fth="1.289" ftinh="1.288" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="13304.223" z="18080.506">
+               <f t="FW BB" o="30.476" v="2.359" />
+               <f t="FW TB1" o="31.074" v="2.406" />
+               <f t="SR" o="32.83" v="2.437" />
+          </e>
+     </w>
+     <w r="13" c="3" n="N4" vl="23.099" cvl="23.099" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="13304.223" s="1.425" fsh="1.422" fsinh="1.425" t="1.853" ct="1.853" b="0.596" fth="1.852" ftinh="1.853" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="13304.223" z="18080.506">
+               <f t="FW BB" o="30.446" v="2.343" />
+               <f t="FW TB1" o="31.042" v="2.375" />
+               <f t="SR" o="33.564" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="4" n="N5" vl="0" cvl="0" status="Data missing for well (14th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.611" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.418" v="2.312" />
+               <f t="EW TB" o="31.03" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="5" n="N6" vl="0" cvl="0" status="Data missing for well (14th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.396" v="2.343" />
+               <f t="EW TB" o="30.992" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="6" n="N7" vl="0" cvl="0" status="Data missing for well (14th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.605" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.368" v="2.375" />
+               <f t="EW TB" o="30.974" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="7" n="N8" vl="57.201" cvl="57.201" status="" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="13304.223" s="1.16" fsh="1.366" fsinh="1.16" t="4.372" ct="4.372" b="0.597" fth="4.687" ftinh="4.372" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="13304.223" z="18080.506">
+               <f t="FW BB" o="30.35" v="2.218" />
+               <f t="FW TB1" o="30.948" v="3.937" />
+               <f t="SR" o="37.448" v="1.015" />
+          </e>
+     </w>
+     <w r="13" c="8" n="N9" vl="0" cvl="0" status="Data missing for well (14th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.326" v="2.265" />
+               <f t="EW TB" o="30.924" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="9" n="N10" vl="0" cvl="0" status="Data missing for well (14th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.312" />
+               <f t="EW TB" o="30.904" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="10" n="N11" vl="0" cvl="0" status="Data missing for well (14th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.58" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.312" />
+               <f t="EW TB" o="30.892" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="11" n="N12" vl="0" cvl="0" status="Data missing for well (14th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.284" v="2.312" />
+               <f t="EW TB" o="30.882" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="12" n="N13" vl="0" cvl="0" status="Data missing for well (14th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.6" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.274" v="2.281" />
+               <f t="EW TB" o="30.874" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="13" n="N14" vl="0" cvl="0" status="Data missing for well (14th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.581" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.278" v="2.312" />
+               <f t="EW TB" o="30.86" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="14" n="N15" vl="0" cvl="0" status="Data missing for well (14th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.256" v="2.328" />
+               <f t="EW TB" o="30.848" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="15" n="N16" vl="0" cvl="0" status="Data missing for well (14th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.244" v="2.281" />
+               <f t="EW TB" o="30.838" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="16" n="N17" vl="0" cvl="0" status="Data missing for well (14th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.25" v="2.25" />
+               <f t="EW TB" o="30.842" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="17" n="N18" vl="0" cvl="0" status="Data missing for well (14th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.254" v="2.218" />
+               <f t="EW TB" o="30.848" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="18" n="N19" vl="0" cvl="0" status="Data missing for well (14th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.262" v="2.187" />
+               <f t="EW TB" o="30.856" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="19" n="N20" vl="0" cvl="0" status="Data missing for well (14th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.278" v="2.218" />
+               <f t="EW TB" o="30.872" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="20" n="N21" vl="0" cvl="0" status="Data missing for well (14th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.298" v="2.218" />
+               <f t="EW TB" o="30.892" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="21" n="N22" vl="0" cvl="0" status="Data missing for well (14th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.324" v="2.203" />
+               <f t="EW TB" o="30.918" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="22" n="N23" vl="0" cvl="0" status="Data missing for well (14th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.358" v="2.281" />
+               <f t="EW TB" o="30.95" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="23" n="N24" vl="0" cvl="0" status="Data missing for well (14th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="13304.223" z="18080.506">
+               <f t="EW BB" o="30.39" v="2.375" />
+               <f t="EW TB" o="30.978" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="0" n="O1" vl="14.062" cvl="14.062" status="" fld="CP-Buffer" fldu="MRayl" x="56058.889" y="8822.223" s="1.424" fsh="1.424" fsinh="1.424" t="1.169" ct="1.169" b="0.594" fth="1.169" ftinh="1.169" o="0" a="NONE">
+          <e t="AVG" x="56058.889" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.558" v="2.453" />
+               <f t="FW TB1" o="31.152" v="2.515" />
+               <f t="SR" o="32.744" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="1" n="O2" vl="23.445" cvl="23.445" status="" fld="CP-Buffer" fldu="MRayl" x="60540.782" y="8822.223" s="1.443" fsh="1.424" fsinh="1.443" t="1.88" ct="1.88" b="0.596" fth="1.869" ftinh="1.88" o="0" a="NONE">
+          <e t="AVG" x="60540.782" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.524" v="2.406" />
+               <f t="FW TB1" o="31.12" v="2.421" />
+               <f t="SR" o="33.664" v="2.921" />
+          </e>
+     </w>
+     <w r="14" c="2" n="O3" vl="34.281" cvl="34.281" status="" fld="CP-Buffer" fldu="MRayl" x="65022.676" y="8822.223" s="1.396" fsh="1.42" fsinh="1.396" t="2.697" ct="2.697" b="0.594" fth="2.718" ftinh="2.697" o="0" a="NONE">
+          <e t="AVG" x="65022.676" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.492" v="2.359" />
+               <f t="FW TB1" o="31.086" v="2.468" />
+               <f t="SR" o="34.79" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="3" n="O4" vl="39.574" cvl="39.574" status="" fld="CP-Buffer" fldu="MRayl" x="69504.569" y="8822.223" s="1.42" fsh="1.42" fsinh="1.42" t="3.1" ct="3.1" b="0.596" fth="3.099" ftinh="3.1" o="0" a="NONE">
+          <e t="AVG" x="69504.569" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.462" v="2.328" />
+               <f t="FW TB1" o="31.058" v="2.437" />
+               <f t="SR" o="35.282" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="4" n="O5" vl="21.112" cvl="21.112" status="" fld="CP-Buffer" fldu="MRayl" x="73986.463" y="8822.223" s="1.427" fsh="1.419" fsinh="1.427" t="1.703" ct="1.703" b="0.598" fth="1.699" ftinh="1.703" o="0" a="NONE">
+          <e t="AVG" x="73986.463" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.43" v="2.281" />
+               <f t="FW TB1" o="31.028" v="2.328" />
+               <f t="SR" o="33.344" v="1.703" />
+          </e>
+     </w>
+     <w r="14" c="5" n="O6" vl="12.06" cvl="12.06" status="" fld="CP-Buffer" fldu="MRayl" x="78468.356" y="8822.223" s="1.428" fsh="0" fsinh="1.428" t="1.018" ct="1.018" b="0.596" fth="0.553" ftinh="1.018" o="0" a="NONE">
+          <e t="AVG" x="78468.356" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.406" v="2.328" />
+               <f t="FW TB1" o="31.002" v="2.39" />
+               <f t="SR" o="32.386" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="6" n="O7" vl="48.797" cvl="48.797" status="" fld="CP-Buffer" fldu="MRayl" x="82950.25" y="8822.223" s="1.425" fsh="0" fsinh="1.425" t="3.798" ct="3.798" b="0.594" fth="2.068" ftinh="3.798" o="0" a="NONE">
+          <e t="AVG" x="82950.25" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.384" v="2.312" />
+               <f t="FW TB1" o="30.978" v="2.375" />
+               <f t="SR" o="36.146" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="7" n="O8" vl="8.754" cvl="8.754" status="" fld="CP-Buffer" fldu="MRayl" x="87432.143" y="8822.223" s="1.374" fsh="0" fsinh="1.374" t="0.753" ct="0.753" b="0.585" fth="0.417" ftinh="0.753" o="0" a="NONE">
+          <e t="AVG" x="87432.143" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.362" v="2.187" />
+               <f t="FW TB1" o="30.948" v="2.328" />
+               <f t="SR" o="31.99" v="1.281" />
+          </e>
+     </w>
+     <w r="14" c="8" n="O9" vl="28.74" cvl="28.74" status="" fld="CP-Buffer" fldu="MRayl" x="91914.037" y="8822.223" s="1.376" fsh="0" fsinh="1.376" t="2.277" ct="2.277" b="0.594" fth="1.26" ftinh="2.277" o="0" a="NONE">
+          <e t="AVG" x="91914.037" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.34" v="2.156" />
+               <f t="FW TB1" o="30.934" v="2.265" />
+               <f t="SR" o="34.082" v="2.734" />
+          </e>
+     </w>
+     <w r="14" c="9" n="O10" vl="31.608" cvl="31.608" status="" fld="CP-Buffer" fldu="MRayl" x="96395.93" y="8822.223" s="1.45" fsh="0" fsinh="1.45" t="2.499" ct="2.499" b="0.593" fth="1.35" ftinh="2.499" o="0" a="NONE">
+          <e t="AVG" x="96395.93" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.328" v="2.187" />
+               <f t="FW TB1" o="30.922" v="2.109" />
+               <f t="SR" o="34.296" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="10" n="O11" vl="19.01" cvl="19.01" status="" fld="CP-Buffer" fldu="MRayl" x="100877.824" y="8822.223" s="1.403" fsh="0" fsinh="1.403" t="1.544" ct="1.544" b="0.577" fth="0.846" ftinh="1.544" o="0" a="NONE">
+          <e t="AVG" x="100877.824" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.346" v="2.281" />
+               <f t="FW TB1" o="30.924" v="2.296" />
+               <f t="SR" o="33.04" v="1.546" />
+          </e>
+     </w>
+     <w r="14" c="11" n="O12" vl="22.861" cvl="22.861" status="" fld="CP-Buffer" fldu="MRayl" x="105359.717" y="8822.223" s="1.43" fsh="0" fsinh="1.43" t="1.835" ct="1.835" b="0.596" fth="0.998" ftinh="1.835" o="0" a="NONE">
+          <e t="AVG" x="105359.717" y="8822.223" z="18080.506">
+               <f t="FW BB" o="30.306" v="2.312" />
+               <f t="FW TB1" o="30.902" v="2.14" />
+               <f t="SR" o="33.396" v="2.187" />
+          </e>
+     </w>
+     <w r="14" c="12" n="O13" vl="0" cvl="0" status="Data missing for well (15th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109841.611" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109841.611" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.3" v="2.281" />
+               <f t="EW TB" o="30.898" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="13" n="O14" vl="0" cvl="0" status="Data missing for well (15th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114323.504" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.579" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114323.504" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.322" v="2.343" />
+               <f t="EW TB" o="30.902" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="14" n="O15" vl="0" cvl="0" status="Data missing for well (15th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118805.398" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118805.398" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.282" v="2.296" />
+               <f t="EW TB" o="30.874" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="15" n="O16" vl="0" cvl="0" status="Data missing for well (15th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123287.291" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123287.291" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.278" v="2.281" />
+               <f t="EW TB" o="30.868" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="16" n="O17" vl="0" cvl="0" status="Data missing for well (15th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127769.185" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127769.185" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.282" v="2.203" />
+               <f t="EW TB" o="30.872" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="17" n="O18" vl="0" cvl="0" status="Data missing for well (15th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132251.078" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132251.078" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.286" v="2.156" />
+               <f t="EW TB" o="30.878" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="18" n="O19" vl="0" cvl="0" status="Data missing for well (15th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136732.972" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136732.972" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.296" v="2.218" />
+               <f t="EW TB" o="30.888" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="19" n="O20" vl="0" cvl="0" status="Data missing for well (15th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141214.865" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141214.865" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.312" v="2.25" />
+               <f t="EW TB" o="30.906" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="20" n="O21" vl="0" cvl="0" status="Data missing for well (15th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145696.759" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145696.759" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.33" v="2.25" />
+               <f t="EW TB" o="30.926" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="21" n="O22" vl="0" cvl="0" status="Data missing for well (15th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150178.652" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150178.652" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.354" v="2.296" />
+               <f t="EW TB" o="30.946" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="22" n="O23" vl="0" cvl="0" status="Data missing for well (15th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154660.546" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154660.546" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.38" v="2.343" />
+               <f t="EW TB" o="30.972" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="23" n="O24" vl="0" cvl="0" status="Data missing for well (15th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159142.439" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159142.439" y="8822.223" z="18080.506">
+               <f t="EW BB" o="30.408" v="2.375" />
+               <f t="EW TB" o="30.998" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="0" n="P1" vl="22.448" cvl="22.448" status="" fld="CP-Buffer" fldu="MRayl" x="56065.08" y="4340.223" s="1.432" fsh="1.432" fsinh="1.432" t="1.804" ct="1.804" b="0.589" fth="1.804" ftinh="1.804" o="0" a="NONE">
+          <e t="AVG" x="56065.08" y="4340.223" z="18080.506">
+               <f t="FW BB" o="30.566" v="2.421" />
+               <f t="FW TB1" o="31.156" v="2.437" />
+               <f t="SR" o="33.606" v="2" />
+          </e>
+     </w>
+     <w r="15" c="1" n="P2" vl="29.548" cvl="29.548" status="" fld="CP-Buffer" fldu="MRayl" x="60546.974" y="4340.223" s="1.443" fsh="1.432" fsinh="1.443" t="2.343" ct="2.343" b="0.591" fth="2.335" ftinh="2.343" o="0" a="NONE">
+          <e t="AVG" x="60546.974" y="4340.223" z="18080.506">
+               <f t="FW BB" o="30.534" v="2.453" />
+               <f t="FW TB1" o="31.126" v="2.484" />
+               <f t="SR" o="34.296" v="3.359" />
+          </e>
+     </w>
+     <w r="15" c="2" n="P3" vl="24.484" cvl="24.484" status="" fld="CP-Buffer" fldu="MRayl" x="65028.867" y="4340.223" s="1.426" fsh="1.426" fsinh="1.426" t="1.958" ct="1.958" b="0.592" fth="1.958" ftinh="1.958" o="0" a="NONE">
+          <e t="AVG" x="65028.867" y="4340.223" z="18080.506">
+               <f t="FW BB" o="30.5" v="2.453" />
+               <f t="FW TB1" o="31.092" v="2.5" />
+               <f t="SR" o="33.756" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="3" n="P4" vl="21.482" cvl="21.482" status="" fld="CP-Buffer" fldu="MRayl" x="69510.761" y="4340.223" s="1.419" fsh="1.419" fsinh="1.419" t="1.731" ct="1.731" b="0.594" fth="1.731" ftinh="1.731" o="0" a="NONE">
+          <e t="AVG" x="69510.761" y="4340.223" z="18080.506">
+               <f t="FW BB" o="30.46" v="2.437" />
+               <f t="FW TB1" o="31.054" v="2.468" />
+               <f t="SR" o="33.414" v="2.406" />
+          </e>
+     </w>
+     <w r="15" c="4" n="P5" vl="0" cvl="0" status="Data missing for well (16th row, 5th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="73992.654" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73992.654" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.432" v="2.484" />
+               <f t="EW TB" o="31.028" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="5" n="P6" vl="0" cvl="0" status="Data missing for well (16th row, 6th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="78474.548" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.597" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78474.548" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.406" v="2.453" />
+               <f t="EW TB" o="31.004" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="6" n="P7" vl="0" cvl="0" status="Data missing for well (16th row, 7th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="82956.441" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82956.441" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.384" v="2.468" />
+               <f t="EW TB" o="30.98" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="7" n="P8" vl="0" cvl="0" status="Data missing for well (16th row, 8th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="87438.335" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.596" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87438.335" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.36" v="2.375" />
+               <f t="EW TB" o="30.956" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="8" n="P9" vl="0" cvl="0" status="Data missing for well (16th row, 9th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="91920.228" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.593" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91920.228" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.342" v="2.437" />
+               <f t="EW TB" o="30.936" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="9" n="P10" vl="0" cvl="0" status="Data missing for well (16th row, 10th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="96402.122" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.585" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96402.122" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.336" v="2.343" />
+               <f t="EW TB" o="30.922" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="10" n="P11" vl="0" cvl="0" status="Data missing for well (16th row, 11th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="100884.015" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100884.015" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.346" v="2.39" />
+               <f t="EW TB" o="30.93" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="11" n="P12" vl="0" cvl="0" status="Data missing for well (16th row, 12th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="105365.909" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105365.909" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.324" v="2.437" />
+               <f t="EW TB" o="30.912" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="12" n="P13" vl="0" cvl="0" status="Data missing for well (16th row, 13th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="109847.802" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109847.802" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.32" v="2.406" />
+               <f t="EW TB" o="30.908" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="13" n="P14" vl="0" cvl="0" status="Data missing for well (16th row, 14th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="114329.696" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.576" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114329.696" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.33" v="2.437" />
+               <f t="EW TB" o="30.906" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="14" n="P15" vl="0" cvl="0" status="Data missing for well (16th row, 15th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="118811.589" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.583" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118811.589" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.306" v="2.437" />
+               <f t="EW TB" o="30.89" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="15" n="P16" vl="0" cvl="0" status="Data missing for well (16th row, 16th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="123293.483" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123293.483" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.406" />
+               <f t="EW TB" o="30.882" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="16" n="P17" vl="0" cvl="0" status="Data missing for well (16th row, 17th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="127775.376" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.594" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127775.376" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.294" v="2.343" />
+               <f t="EW TB" o="30.888" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="17" n="P18" vl="0" cvl="0" status="Data missing for well (16th row, 18th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="132257.27" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.592" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132257.27" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.308" v="2.343" />
+               <f t="EW TB" o="30.9" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="18" n="P19" vl="0" cvl="0" status="Data missing for well (16th row, 19th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="136739.163" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.591" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136739.163" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.318" v="2.359" />
+               <f t="EW TB" o="30.91" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="19" n="P20" vl="0" cvl="0" status="Data missing for well (16th row, 20th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="141221.057" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141221.057" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.334" v="2.343" />
+               <f t="EW TB" o="30.924" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="20" n="P21" vl="0" cvl="0" status="Data missing for well (16th row, 21th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="145702.95" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.589" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145702.95" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.352" v="2.375" />
+               <f t="EW TB" o="30.942" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="21" n="P22" vl="0" cvl="0" status="Data missing for well (16th row, 22th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="150184.844" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.588" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150184.844" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.378" v="2.343" />
+               <f t="EW TB" o="30.966" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="22" n="P23" vl="0" cvl="0" status="Data missing for well (16th row, 23th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="154666.737" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.587" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154666.737" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.4" v="2.406" />
+               <f t="EW TB" o="30.988" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="23" n="P24" vl="0" cvl="0" status="Data missing for well (16th row, 24th column), defaulting to 0.0 value of CP-Buffer" fld="CP-Buffer" fldu="MRayl" x="159148.631" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.586" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159148.631" y="4340.223" z="18080.506">
+               <f t="EW BB" o="30.416" v="2.453" />
+               <f t="EW TB" o="31.002" v="3.984" />
+          </e>
+     </w>
+</platesurvey>

@@ -1,0 +1,2387 @@
+﻿<?xml version="1.0"?>
+<platesurvey name="384PP_DMSO2" barcode="XA-XB-QC" date="2022-04-13 19:51:37.000" serial_number="E5XX-17107" vtl="0" original="1" frmt="1" rows="16" cols="24" totalWells="384">
+     <w r="0" c="0" n="A1" vl="48.073" cvl="48.073" status="" fld="DMSO" fldu="Percent" x="56050.134" y="71570.223" s="73.827" fsh="73.827" fsinh="73.827" t="3.232" ct="3.232" b="0.615" fth="3.232" ftinh="3.232" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.237" v="2.531" />
+               <f t="FW TB1" o="32.853" v="1.562" />
+               <f t="SR" o="36.753" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="1" n="A2" vl="45.888" cvl="45.888" status="" fld="DMSO" fldu="Percent" x="60532.027" y="71570.223" s="77.829" fsh="73.827" fsinh="71.552" t="3.062" ct="3.062" b="0.615" fth="3.109" ftinh="3.136" o="1" a="FILTERED">
+          <e t="AVG" x="60532.027" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.227" v="2.25" />
+               <f t="FW TB1" o="32.843" v="1.562" />
+               <f t="SR" o="36.595" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="2" n="A3" vl="46.36" cvl="46.36" status="" fld="DMSO" fldu="Percent" x="65013.921" y="71570.223" s="75.074" fsh="74.453" fsinh="75.074" t="3.103" ct="3.103" b="0.62" fth="3.11" ftinh="3.103" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.207" v="2.453" />
+               <f t="FW TB1" o="32.827" v="1.656" />
+               <f t="SR" o="36.589" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="3" n="A4" vl="51.311" cvl="51.311" status="" fld="DMSO" fldu="Percent" x="69495.814" y="71570.223" s="74.887" fsh="75.074" fsinh="74.887" t="3.466" ct="3.466" b="0.628" fth="3.464" ftinh="3.466" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.185" v="2.468" />
+               <f t="FW TB1" o="32.813" v="1.656" />
+               <f t="SR" o="37.013" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="4" n="A5" vl="0" cvl="0" status="Data missing for well (1th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.161" v="2.5" />
+               <f t="EW TB" o="32.779" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="5" n="A6" vl="0" cvl="0" status="Data missing for well (1th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.139" v="2.437" />
+               <f t="EW TB" o="32.761" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="6" n="A7" vl="0" cvl="0" status="Data missing for well (1th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.125" v="2.453" />
+               <f t="EW TB" o="32.747" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="7" n="A8" vl="0" cvl="0" status="Data missing for well (1th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.421" />
+               <f t="EW TB" o="32.735" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="8" n="A9" vl="0" cvl="0" status="Data missing for well (1th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.107" v="2.453" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="9" n="A10" vl="0" cvl="0" status="Data missing for well (1th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.421" />
+               <f t="EW TB" o="32.723" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="10" n="A11" vl="0" cvl="0" status="Data missing for well (1th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.123" v="2.39" />
+               <f t="EW TB" o="32.743" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="11" n="A12" vl="41.924" cvl="41.924" status="" fld="DMSO" fldu="Percent" x="105350.962" y="71570.223" s="71.248" fsh="72.061" fsinh="71.248" t="2.79" ct="2.79" b="0.615" fth="2.782" ftinh="2.79" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.105" v="2.468" />
+               <f t="FW TB1" o="32.721" v="1.406" />
+               <f t="SR" o="36.055" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="12" n="A13" vl="52.559" cvl="52.559" status="" fld="DMSO" fldu="Percent" x="109832.856" y="71570.223" s="70.487" fsh="71.248" fsinh="70.487" t="3.572" ct="3.572" b="0.623" fth="3.562" ftinh="3.572" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.107" v="2.5" />
+               <f t="FW TB1" o="32.731" v="1.437" />
+               <f t="SR" o="36.987" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="13" n="A14" vl="48.826" cvl="48.826" status="" fld="DMSO" fldu="Percent" x="114314.749" y="71570.223" s="72.305" fsh="72.305" fsinh="72.305" t="3.293" ct="3.293" b="0.625" fth="3.293" ftinh="3.293" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.123" v="2.375" />
+               <f t="FW TB1" o="32.749" v="1.562" />
+               <f t="SR" o="36.699" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="14" n="A15" vl="50.088" cvl="50.088" status="" fld="DMSO" fldu="Percent" x="118796.643" y="71570.223" s="78.156" fsh="78.156" fsinh="78.156" t="3.369" ct="3.369" b="0.606" fth="3.369" ftinh="3.369" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="71570.223" z="16756.194">
+               <f t="FW BB" o="32.099" v="2.406" />
+               <f t="FW TB1" o="32.705" v="1.718" />
+               <f t="SR" o="36.839" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="15" n="A16" vl="0" cvl="0" status="Data missing for well (1th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.089" v="2.39" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="16" n="A17" vl="0" cvl="0" status="Data missing for well (1th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.089" v="2.359" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="17" n="A18" vl="0" cvl="0" status="Data missing for well (1th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.095" v="2.343" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="18" n="A19" vl="0" cvl="0" status="Data missing for well (1th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.281" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="19" n="A20" vl="0" cvl="0" status="Data missing for well (1th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.119" v="2.343" />
+               <f t="EW TB" o="32.739" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="20" n="A21" vl="0" cvl="0" status="Data missing for well (1th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.135" v="2.343" />
+               <f t="EW TB" o="32.757" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="21" n="A22" vl="0" cvl="0" status="Data missing for well (1th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.617" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.153" v="2.406" />
+               <f t="EW TB" o="32.771" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="22" n="A23" vl="0" cvl="0" status="Data missing for well (1th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.171" v="2.437" />
+               <f t="EW TB" o="32.787" v="3.984" />
+          </e>
+     </w>
+     <w r="0" c="23" n="A24" vl="0" cvl="0" status="Data missing for well (1th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="71570.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="71570.223" z="16756.194">
+               <f t="EW BB" o="32.179" v="2.468" />
+               <f t="EW TB" o="32.795" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="0" n="B1" vl="51.545" cvl="51.545" status="" fld="DMSO" fldu="Percent" x="56056.325" y="67088.223" s="73.22" fsh="73.827" fsinh="73.22" t="3.489" ct="3.489" b="0.62" fth="3.481" ftinh="3.489" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.231" v="2.515" />
+               <f t="FW TB1" o="32.851" v="1.578" />
+               <f t="SR" o="37.051" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="1" n="B2" vl="40.594" cvl="40.594" status="" fld="DMSO" fldu="Percent" x="60538.219" y="67088.223" s="73.02" fsh="74.117" fsinh="73.02" t="2.687" ct="2.687" b="0.621" fth="2.675" ftinh="2.687" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.215" v="2.531" />
+               <f t="FW TB1" o="32.837" v="1.656" />
+               <f t="SR" o="36.069" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="2" n="B3" vl="50.134" cvl="50.134" status="" fld="DMSO" fldu="Percent" x="65020.112" y="67088.223" s="72.742" fsh="74.544" fsinh="72.742" t="3.387" ct="3.387" b="0.63" fth="3.364" ftinh="3.387" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.189" v="2.468" />
+               <f t="FW TB1" o="32.819" v="1.64" />
+               <f t="SR" o="36.889" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="3" n="B4" vl="49.887" cvl="49.887" status="" fld="DMSO" fldu="Percent" x="69502.006" y="67088.223" s="72.545" fsh="75.074" fsinh="72.545" t="3.369" ct="3.369" b="0.631" fth="3.337" ftinh="3.369" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.171" v="2.421" />
+               <f t="FW TB1" o="32.803" v="1.625" />
+               <f t="SR" o="36.849" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="4" n="B5" vl="0" cvl="0" status="Data missing for well (2th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.147" v="2.421" />
+               <f t="EW TB" o="32.769" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="5" n="B6" vl="0" cvl="0" status="Data missing for well (2th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.631" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.117" v="2.796" />
+               <f t="EW TB" o="32.749" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="6" n="B7" vl="0" cvl="0" status="Data missing for well (2th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.109" v="2.406" />
+               <f t="EW TB" o="32.733" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="7" n="B8" vl="0" cvl="0" status="Data missing for well (2th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.39" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="8" n="B9" vl="0" cvl="0" status="Data missing for well (2th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.099" v="2.406" />
+               <f t="EW TB" o="32.723" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="9" n="B10" vl="0" cvl="0" status="Data missing for well (2th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.099" v="2.437" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="10" n="B11" vl="0" cvl="0" status="Data missing for well (2th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.111" v="2.437" />
+               <f t="EW TB" o="32.735" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="11" n="B12" vl="48.704" cvl="48.704" status="" fld="DMSO" fldu="Percent" x="105357.154" y="67088.223" s="73.658" fsh="76.925" fsinh="73.658" t="3.279" ct="3.279" b="0.637" fth="3.238" ftinh="3.279" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.095" v="2.437" />
+               <f t="FW TB1" o="32.733" v="1.531" />
+               <f t="SR" o="36.687" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="12" n="B13" vl="50.451" cvl="50.451" status="" fld="DMSO" fldu="Percent" x="109839.047" y="67088.223" s="72.061" fsh="72.305" fsinh="72.061" t="3.412" ct="3.412" b="0.636" fth="3.409" ftinh="3.412" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.097" v="2.437" />
+               <f t="FW TB1" o="32.733" v="1.546" />
+               <f t="SR" o="36.823" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="13" n="B14" vl="47.036" cvl="47.036" status="" fld="DMSO" fldu="Percent" x="114320.941" y="67088.223" s="70.487" fsh="73.58" fsinh="70.487" t="3.168" ct="3.168" b="0.632" fth="3.13" ftinh="3.168" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.119" v="2.421" />
+               <f t="FW TB1" o="32.751" v="1.562" />
+               <f t="SR" o="36.525" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="14" n="B15" vl="45.796" cvl="45.796" status="" fld="DMSO" fldu="Percent" x="118802.834" y="67088.223" s="73.58" fsh="78.156" fsinh="73.58" t="3.066" ct="3.066" b="0.623" fth="3.012" ftinh="3.066" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="67088.223" z="16756.194">
+               <f t="FW BB" o="32.095" v="2.421" />
+               <f t="FW TB1" o="32.719" v="1.609" />
+               <f t="SR" o="36.415" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="15" n="B16" vl="0" cvl="0" status="Data missing for well (2th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.079" v="2.39" />
+               <f t="EW TB" o="32.705" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="16" n="B17" vl="0" cvl="0" status="Data missing for well (2th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.079" v="2.375" />
+               <f t="EW TB" o="32.707" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="17" n="B18" vl="0" cvl="0" status="Data missing for well (2th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.081" v="2.328" />
+               <f t="EW TB" o="32.707" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="18" n="B19" vl="0" cvl="0" status="Data missing for well (2th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.091" v="2.375" />
+               <f t="EW TB" o="32.717" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="19" n="B20" vl="0" cvl="0" status="Data missing for well (2th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.103" v="2.359" />
+               <f t="EW TB" o="32.727" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="20" n="B21" vl="0" cvl="0" status="Data missing for well (2th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.125" v="2.359" />
+               <f t="EW TB" o="32.747" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="21" n="B22" vl="0" cvl="0" status="Data missing for well (2th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.137" v="2.421" />
+               <f t="EW TB" o="32.759" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="22" n="B23" vl="0" cvl="0" status="Data missing for well (2th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.157" v="2.453" />
+               <f t="EW TB" o="32.775" v="3.984" />
+          </e>
+     </w>
+     <w r="1" c="23" n="B24" vl="0" cvl="0" status="Data missing for well (2th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="67088.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="67088.223" z="16756.194">
+               <f t="EW BB" o="32.169" v="2.468" />
+               <f t="EW TB" o="32.785" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="0" n="C1" vl="52.53" cvl="52.53" status="" fld="DMSO" fldu="Percent" x="56050.134" y="62606.223" s="74.117" fsh="74.117" fsinh="74.117" t="3.558" ct="3.558" b="0.618" fth="3.558" ftinh="3.558" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.221" v="2.546" />
+               <f t="FW TB1" o="32.839" v="1.609" />
+               <f t="SR" o="37.137" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="1" n="C2" vl="51.16" cvl="51.16" status="" fld="DMSO" fldu="Percent" x="60532.027" y="62606.223" s="74.544" fsh="74.117" fsinh="74.544" t="3.456" ct="3.456" b="0.628" fth="3.462" ftinh="3.456" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.191" v="2.453" />
+               <f t="FW TB1" o="32.819" v="1.609" />
+               <f t="SR" o="37.001" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="2" n="C3" vl="52.092" cvl="52.092" status="" fld="DMSO" fldu="Percent" x="65013.921" y="62606.223" s="74.637" fsh="74.534" fsinh="74.637" t="3.524" ct="3.524" b="0.629" fth="3.526" ftinh="3.524" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.165" v="2.406" />
+               <f t="FW TB1" o="32.795" v="1.609" />
+               <f t="SR" o="37.061" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="3" n="C4" vl="50.354" cvl="50.354" status="" fld="DMSO" fldu="Percent" x="69495.814" y="62606.223" s="75.732" fsh="74.707" fsinh="75.732" t="3.394" ct="3.394" b="0.631" fth="3.408" ftinh="3.394" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.145" v="2.39" />
+               <f t="FW TB1" o="32.777" v="1.609" />
+               <f t="SR" o="36.903" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="4" n="C5" vl="0" cvl="0" status="Data missing for well (3th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.129" v="2.39" />
+               <f t="EW TB" o="32.753" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="5" n="C6" vl="0" cvl="0" status="Data missing for well (3th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.39" />
+               <f t="EW TB" o="32.737" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="6" n="C7" vl="0" cvl="0" status="Data missing for well (3th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.099" v="2.39" />
+               <f t="EW TB" o="32.725" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="7" n="C8" vl="0" cvl="0" status="Data missing for well (3th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.091" v="2.359" />
+               <f t="EW TB" o="32.717" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="8" n="C9" vl="0" cvl="0" status="Data missing for well (3th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.081" v="2.406" />
+               <f t="EW TB" o="32.709" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="9" n="C10" vl="0" cvl="0" status="Data missing for well (3th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.079" v="2.39" />
+               <f t="EW TB" o="32.703" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="10" n="C11" vl="0" cvl="0" status="Data missing for well (3th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.077" v="2.453" />
+               <f t="EW TB" o="32.697" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="11" n="C12" vl="50.227" cvl="50.227" status="" fld="DMSO" fldu="Percent" x="105350.962" y="62606.223" s="77.51" fsh="75.893" fsinh="77.51" t="3.381" ct="3.381" b="0.635" fth="3.402" ftinh="3.381" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.071" v="2.468" />
+               <f t="FW TB1" o="32.707" v="1.609" />
+               <f t="SR" o="36.845" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="12" n="C13" vl="50.246" cvl="50.246" status="" fld="DMSO" fldu="Percent" x="109832.856" y="62606.223" s="76.925" fsh="75.754" fsinh="76.925" t="3.384" ct="3.384" b="0.635" fth="3.399" ftinh="3.384" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.071" v="2.437" />
+               <f t="FW TB1" o="32.707" v="1.609" />
+               <f t="SR" o="36.839" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="13" n="C14" vl="48.489" cvl="48.489" status="" fld="DMSO" fldu="Percent" x="114314.749" y="62606.223" s="76.717" fsh="76.872" fsinh="76.717" t="3.255" ct="3.255" b="0.611" fth="3.253" ftinh="3.255" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.083" v="2.421" />
+               <f t="FW TB1" o="32.695" v="1.734" />
+               <f t="SR" o="36.667" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="14" n="C15" vl="51.212" cvl="51.212" status="" fld="DMSO" fldu="Percent" x="118796.643" y="62606.223" s="80.566" fsh="78.42" fsinh="80.566" t="3.445" ct="3.445" b="0.635" fth="3.475" ftinh="3.445" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="62606.223" z="16756.194">
+               <f t="FW BB" o="32.065" v="2.375" />
+               <f t="FW TB1" o="32.701" v="1.75" />
+               <f t="SR" o="36.969" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="15" n="C16" vl="0" cvl="0" status="Data missing for well (3th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.375" />
+               <f t="EW TB" o="32.685" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="16" n="C17" vl="0" cvl="0" status="Data missing for well (3th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.059" v="2.359" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="17" n="C18" vl="0" cvl="0" status="Data missing for well (3th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.065" v="2.375" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="18" n="C19" vl="0" cvl="0" status="Data missing for well (3th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.073" v="2.312" />
+               <f t="EW TB" o="32.699" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="19" n="C20" vl="0" cvl="0" status="Data missing for well (3th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.083" v="2.343" />
+               <f t="EW TB" o="32.707" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="20" n="C21" vl="0" cvl="0" status="Data missing for well (3th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.095" v="2.328" />
+               <f t="EW TB" o="32.719" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="21" n="C22" vl="0" cvl="0" status="Data missing for well (3th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.359" />
+               <f t="EW TB" o="32.733" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="22" n="C23" vl="0" cvl="0" status="Data missing for well (3th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.135" v="2.406" />
+               <f t="EW TB" o="32.755" v="3.984" />
+          </e>
+     </w>
+     <w r="2" c="23" n="C24" vl="0" cvl="0" status="Data missing for well (3th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="62606.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="62606.223" z="16756.194">
+               <f t="EW BB" o="32.157" v="2.468" />
+               <f t="EW TB" o="32.773" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="0" n="D1" vl="49.778" cvl="49.778" status="" fld="DMSO" fldu="Percent" x="56056.325" y="58124.223" s="75.374" fsh="74.746" fsinh="75.374" t="3.353" ct="3.353" b="0.62" fth="3.361" ftinh="3.353" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.207" v="2.5" />
+               <f t="FW TB1" o="32.827" v="1.64" />
+               <f t="SR" o="36.897" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="1" n="D2" vl="51.29" cvl="51.29" status="" fld="DMSO" fldu="Percent" x="60538.219" y="58124.223" s="72.249" fsh="74.546" fsinh="72.249" t="3.473" ct="3.473" b="0.628" fth="3.443" ftinh="3.473" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.175" v="2.453" />
+               <f t="FW TB1" o="32.803" v="1.546" />
+               <f t="SR" o="36.969" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="2" n="D3" vl="52.715" cvl="52.715" status="" fld="DMSO" fldu="Percent" x="65020.112" y="58124.223" s="74.546" fsh="74.615" fsinh="74.546" t="3.57" ct="3.57" b="0.629" fth="3.569" ftinh="3.57" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.141" v="2.406" />
+               <f t="FW TB1" o="32.771" v="1.593" />
+               <f t="SR" o="37.091" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="3" n="D4" vl="50.007" cvl="50.007" status="" fld="DMSO" fldu="Percent" x="69502.006" y="58124.223" s="74.245" fsh="74.78" fsinh="74.245" t="3.372" ct="3.372" b="0.631" fth="3.365" ftinh="3.372" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.121" v="2.39" />
+               <f t="FW TB1" o="32.753" v="1.609" />
+               <f t="SR" o="36.829" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="4" n="D5" vl="0" cvl="0" status="Data missing for well (4th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.359" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="5" n="D6" vl="0" cvl="0" status="Data missing for well (4th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.095" v="2.39" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="6" n="D7" vl="0" cvl="0" status="Data missing for well (4th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.083" v="2.359" />
+               <f t="EW TB" o="32.709" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="7" n="D8" vl="0" cvl="0" status="Data missing for well (4th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.073" v="2.375" />
+               <f t="EW TB" o="32.701" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="8" n="D9" vl="0" cvl="0" status="Data missing for well (4th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.063" v="2.359" />
+               <f t="EW TB" o="32.691" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="9" n="D10" vl="0" cvl="0" status="Data missing for well (4th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.059" v="2.39" />
+               <f t="EW TB" o="32.687" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="10" n="D11" vl="0" cvl="0" status="Data missing for well (4th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.406" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="11" n="D12" vl="49.475" cvl="49.475" status="" fld="DMSO" fldu="Percent" x="105357.154" y="58124.223" s="71.678" fsh="75.815" fsinh="71.678" t="3.342" ct="3.342" b="0.64" fth="3.29" ftinh="3.342" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.053" v="2.39" />
+               <f t="FW TB1" o="32.693" v="1.421" />
+               <f t="SR" o="36.693" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="12" n="D13" vl="50.847" cvl="50.847" status="" fld="DMSO" fldu="Percent" x="109839.047" y="58124.223" s="74.377" fsh="76.417" fsinh="74.377" t="3.434" ct="3.434" b="0.639" fth="3.407" ftinh="3.434" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.055" v="2.39" />
+               <f t="FW TB1" o="32.695" v="1.515" />
+               <f t="SR" o="36.847" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="13" n="D14" vl="50.469" cvl="50.469" status="" fld="DMSO" fldu="Percent" x="114320.941" y="58124.223" s="78.433" fsh="77.965" fsinh="78.433" t="3.396" ct="3.396" b="0.631" fth="3.402" ftinh="3.396" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.053" v="2.343" />
+               <f t="FW TB1" o="32.685" v="1.718" />
+               <f t="SR" o="36.857" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="14" n="D15" vl="51.106" cvl="51.106" status="" fld="DMSO" fldu="Percent" x="118802.834" y="58124.223" s="81.996" fsh="79.436" fsinh="81.996" t="3.434" ct="3.434" b="0.642" fth="3.469" ftinh="3.434" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="58124.223" z="16756.194">
+               <f t="FW BB" o="32.041" v="2.375" />
+               <f t="FW TB1" o="32.683" v="1.781" />
+               <f t="SR" o="36.961" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="15" n="D16" vl="0" cvl="0" status="Data missing for well (4th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.359" />
+               <f t="EW TB" o="32.665" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="16" n="D17" vl="0" cvl="0" status="Data missing for well (4th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.037" v="2.343" />
+               <f t="EW TB" o="32.665" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="17" n="D18" vl="0" cvl="0" status="Data missing for well (4th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.045" v="2.265" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="18" n="D19" vl="0" cvl="0" status="Data missing for well (4th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.049" v="2.328" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="19" n="D20" vl="0" cvl="0" status="Data missing for well (4th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.359" />
+               <f t="EW TB" o="32.683" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="20" n="D21" vl="0" cvl="0" status="Data missing for well (4th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.359" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="21" n="D22" vl="0" cvl="0" status="Data missing for well (4th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.087" v="2.312" />
+               <f t="EW TB" o="32.709" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="22" n="D23" vl="0" cvl="0" status="Data missing for well (4th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.111" v="2.328" />
+               <f t="EW TB" o="32.733" v="3.984" />
+          </e>
+     </w>
+     <w r="3" c="23" n="D24" vl="0" cvl="0" status="Data missing for well (4th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="58124.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="58124.223" z="16756.194">
+               <f t="EW BB" o="32.139" v="2.437" />
+               <f t="EW TB" o="32.755" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="0" n="E1" vl="52.498" cvl="52.498" status="" fld="DMSO" fldu="Percent" x="56050.134" y="53642.223" s="75.505" fsh="74.813" fsinh="75.505" t="3.552" ct="3.552" b="0.618" fth="3.562" ftinh="3.552" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.195" v="2.453" />
+               <f t="FW TB1" o="32.813" v="1.609" />
+               <f t="SR" o="37.127" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="1" n="E2" vl="51.242" cvl="51.242" status="" fld="DMSO" fldu="Percent" x="60532.027" y="53642.223" s="74.746" fsh="74.746" fsinh="74.746" t="3.462" ct="3.462" b="0.625" fth="3.462" ftinh="3.462" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.157" v="2.406" />
+               <f t="FW TB1" o="32.783" v="1.578" />
+               <f t="SR" o="36.975" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="2" n="E3" vl="46.922" cvl="46.922" status="" fld="DMSO" fldu="Percent" x="65013.921" y="53642.223" s="70.487" fsh="74.672" fsinh="70.487" t="3.159" ct="3.159" b="0.624" fth="3.109" ftinh="3.159" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.125" v="2.39" />
+               <f t="FW TB1" o="32.749" v="1.312" />
+               <f t="SR" o="36.513" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="3" n="E4" vl="47.84" cvl="47.84" status="" fld="DMSO" fldu="Percent" x="69495.814" y="53642.223" s="75.259" fsh="74.819" fsinh="75.259" t="3.211" ct="3.211" b="0.631" fth="3.216" ftinh="3.211" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.101" v="2.39" />
+               <f t="FW TB1" o="32.733" v="1.64" />
+               <f t="SR" o="36.629" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="4" n="E5" vl="0" cvl="0" status="Data missing for well (5th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.083" v="2.375" />
+               <f t="EW TB" o="32.707" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="5" n="E6" vl="0" cvl="0" status="Data missing for well (5th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.375" />
+               <f t="EW TB" o="32.697" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="6" n="E7" vl="0" cvl="0" status="Data missing for well (5th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.061" v="2.359" />
+               <f t="EW TB" o="32.687" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="7" n="E8" vl="0" cvl="0" status="Data missing for well (5th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.053" v="2.343" />
+               <f t="EW TB" o="32.681" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="8" n="E9" vl="0" cvl="0" status="Data missing for well (5th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.359" />
+               <f t="EW TB" o="32.675" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="9" n="E10" vl="0" cvl="0" status="Data missing for well (5th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.041" v="2.375" />
+               <f t="EW TB" o="32.671" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="10" n="E11" vl="0" cvl="0" status="Data missing for well (5th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.359" />
+               <f t="EW TB" o="32.657" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="11" n="E12" vl="52.422" cvl="52.422" status="" fld="DMSO" fldu="Percent" x="105350.962" y="53642.223" s="76.283" fsh="74.712" fsinh="76.283" t="3.545" ct="3.545" b="0.635" fth="3.566" ftinh="3.545" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.037" v="2.375" />
+               <f t="FW TB1" o="32.673" v="1.609" />
+               <f t="SR" o="36.991" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="12" n="E13" vl="50.521" cvl="50.521" status="" fld="DMSO" fldu="Percent" x="109832.856" y="53642.223" s="70.487" fsh="75.466" fsinh="70.487" t="3.423" ct="3.423" b="0.63" fth="3.358" ftinh="3.423" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.045" v="2.546" />
+               <f t="FW TB1" o="32.675" v="1.453" />
+               <f t="SR" o="36.753" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="13" n="E14" vl="51.164" cvl="51.164" status="" fld="DMSO" fldu="Percent" x="114314.749" y="53642.223" s="80.593" fsh="77.568" fsinh="80.593" t="3.442" ct="3.442" b="0.64" fth="3.483" ftinh="3.442" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.031" v="2.343" />
+               <f t="FW TB1" o="32.671" v="1.812" />
+               <f t="SR" o="36.935" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="14" n="E15" vl="50.117" cvl="50.117" status="" fld="DMSO" fldu="Percent" x="118796.643" y="53642.223" s="79.468" fsh="79.056" fsinh="79.468" t="3.368" ct="3.368" b="0.642" fth="3.373" ftinh="3.368" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="53642.223" z="16756.194">
+               <f t="FW BB" o="32.021" v="2.375" />
+               <f t="FW TB1" o="32.663" v="1.796" />
+               <f t="SR" o="36.817" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="15" n="E16" vl="0" cvl="0" status="Data missing for well (5th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.343" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="16" n="E17" vl="0" cvl="0" status="Data missing for well (5th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.343" />
+               <f t="EW TB" o="32.647" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="17" n="E18" vl="0" cvl="0" status="Data missing for well (5th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.343" />
+               <f t="EW TB" o="32.651" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="18" n="E19" vl="0" cvl="0" status="Data missing for well (5th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.312" />
+               <f t="EW TB" o="32.655" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="19" n="E20" vl="0" cvl="0" status="Data missing for well (5th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.033" v="2.312" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="20" n="E21" vl="0" cvl="0" status="Data missing for well (5th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.049" v="2.343" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="21" n="E22" vl="0" cvl="0" status="Data missing for well (5th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.067" v="2.328" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="22" n="E23" vl="0" cvl="0" status="Data missing for well (5th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.097" v="2.265" />
+               <f t="EW TB" o="32.715" v="3.984" />
+          </e>
+     </w>
+     <w r="4" c="23" n="E24" vl="0" cvl="0" status="Data missing for well (5th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="53642.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.616" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="53642.223" z="16756.194">
+               <f t="EW BB" o="32.125" v="2.343" />
+               <f t="EW TB" o="32.741" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="0" n="F1" vl="51.412" cvl="51.412" status="" fld="DMSO" fldu="Percent" x="56056.325" y="49160.223" s="74.813" fsh="74.746" fsinh="74.813" t="3.474" ct="3.474" b="0.618" fth="3.475" ftinh="3.474" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.189" v="2.437" />
+               <f t="FW TB1" o="32.807" v="1.578" />
+               <f t="SR" o="37.015" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="1" n="F2" vl="48.602" cvl="48.602" status="" fld="DMSO" fldu="Percent" x="60538.219" y="49160.223" s="73.75" fsh="74.707" fsinh="73.75" t="3.271" ct="3.271" b="0.624" fth="3.259" ftinh="3.271" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.151" v="2.421" />
+               <f t="FW TB1" o="32.775" v="1.578" />
+               <f t="SR" o="36.721" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="2" n="F3" vl="50.6" cvl="50.6" status="" fld="DMSO" fldu="Percent" x="65020.112" y="49160.223" s="75.735" fsh="74.545" fsinh="75.735" t="3.412" ct="3.412" b="0.628" fth="3.428" ftinh="3.412" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.117" v="2.375" />
+               <f t="FW TB1" o="32.745" v="1.625" />
+               <f t="SR" o="36.893" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="3" n="F4" vl="38.826" cvl="38.826" status="" fld="DMSO" fldu="Percent" x="69502.006" y="49160.223" s="73.79" fsh="74.781" fsinh="73.79" t="2.554" ct="2.554" b="0.634" fth="2.545" ftinh="2.554" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.089" v="2.359" />
+               <f t="FW TB1" o="32.723" v="1.578" />
+               <f t="SR" o="35.805" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="4" n="F5" vl="0" cvl="0" status="Data missing for well (6th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.069" v="2.328" />
+               <f t="EW TB" o="32.693" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="5" n="F6" vl="0" cvl="0" status="Data missing for well (6th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.053" v="2.343" />
+               <f t="EW TB" o="32.679" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="6" n="F7" vl="0" cvl="0" status="Data missing for well (6th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.043" v="2.312" />
+               <f t="EW TB" o="32.669" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="7" n="F8" vl="0" cvl="0" status="Data missing for well (6th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.328" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="8" n="F9" vl="0" cvl="0" status="Data missing for well (6th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.031" v="2.328" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="9" n="F10" vl="0" cvl="0" status="Data missing for well (6th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.029" v="2.343" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="10" n="F11" vl="0" cvl="0" status="Data missing for well (6th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.015" v="2.359" />
+               <f t="EW TB" o="32.643" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="11" n="F12" vl="50.91" cvl="50.91" status="" fld="DMSO" fldu="Percent" x="105357.154" y="49160.223" s="73.05" fsh="72.993" fsinh="73.05" t="3.443" ct="3.443" b="0.634" fth="3.444" ftinh="3.443" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.023" v="2.343" />
+               <f t="FW TB1" o="32.657" v="1.515" />
+               <f t="SR" o="36.799" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="12" n="F13" vl="49.628" cvl="49.628" status="" fld="DMSO" fldu="Percent" x="109839.047" y="49160.223" s="70.487" fsh="73.495" fsinh="70.487" t="3.357" ct="3.357" b="0.636" fth="3.319" ftinh="3.357" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.023" v="2.375" />
+               <f t="FW TB1" o="32.659" v="1.328" />
+               <f t="SR" o="36.659" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="13" n="F14" vl="49.682" cvl="49.682" status="" fld="DMSO" fldu="Percent" x="114320.941" y="49160.223" s="74.63" fsh="75.376" fsinh="74.63" t="3.348" ct="3.348" b="0.637" fth="3.338" ftinh="3.348" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.011" v="2.343" />
+               <f t="FW TB1" o="32.649" v="1.656" />
+               <f t="SR" o="36.701" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="14" n="F15" vl="50.984" cvl="50.984" status="" fld="DMSO" fldu="Percent" x="118802.834" y="49160.223" s="79.885" fsh="77.216" fsinh="79.885" t="3.43" ct="3.43" b="0.636" fth="3.466" ftinh="3.43" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="49160.223" z="16756.194">
+               <f t="FW BB" o="32.011" v="2.328" />
+               <f t="FW TB1" o="32.647" v="1.765" />
+               <f t="SR" o="36.885" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="15" n="F16" vl="0" cvl="0" status="Data missing for well (6th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.001" v="2.343" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="16" n="F17" vl="0" cvl="0" status="Data missing for well (6th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="49160.223" z="16756.194">
+               <f t="EW BB" o="31.999" v="2.312" />
+               <f t="EW TB" o="32.629" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="17" n="F18" vl="0" cvl="0" status="Data missing for well (6th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="49160.223" z="16756.194">
+               <f t="EW BB" o="31.997" v="2.296" />
+               <f t="EW TB" o="32.627" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="18" n="F19" vl="0" cvl="0" status="Data missing for well (6th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.005" v="2.296" />
+               <f t="EW TB" o="32.633" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="19" n="F20" vl="0" cvl="0" status="Data missing for well (6th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.343" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="20" n="F21" vl="0" cvl="0" status="Data missing for well (6th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.031" v="2.296" />
+               <f t="EW TB" o="32.657" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="21" n="F22" vl="0" cvl="0" status="Data missing for well (6th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.053" v="2.343" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="22" n="F23" vl="0" cvl="0" status="Data missing for well (6th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.083" v="2.375" />
+               <f t="EW TB" o="32.703" v="3.984" />
+          </e>
+     </w>
+     <w r="5" c="23" n="F24" vl="0" cvl="0" status="Data missing for well (6th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="49160.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="49160.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.39" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="0" n="G1" vl="50.685" cvl="50.685" status="" fld="DMSO" fldu="Percent" x="56050.134" y="44678.223" s="74.707" fsh="73.75" fsinh="74.707" t="3.421" ct="3.421" b="0.613" fth="3.434" ftinh="3.421" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.181" v="2.437" />
+               <f t="FW TB1" o="32.795" v="1.625" />
+               <f t="SR" o="36.937" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="1" n="G2" vl="46.933" cvl="46.933" status="" fld="DMSO" fldu="Percent" x="60532.027" y="44678.223" s="72.939" fsh="73.891" fsinh="72.939" t="3.151" ct="3.151" b="0.624" fth="3.14" ftinh="3.151" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.143" v="2.39" />
+               <f t="FW TB1" o="32.767" v="1.515" />
+               <f t="SR" o="36.557" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="2" n="G3" vl="50.121" cvl="50.121" status="" fld="DMSO" fldu="Percent" x="65013.921" y="44678.223" s="73.891" fsh="74.409" fsinh="73.891" t="3.382" ct="3.382" b="0.628" fth="3.375" ftinh="3.382" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.105" v="2.39" />
+               <f t="FW TB1" o="32.733" v="1.578" />
+               <f t="SR" o="36.815" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="3" n="G4" vl="48.574" cvl="48.574" status="" fld="DMSO" fldu="Percent" x="69495.814" y="44678.223" s="75.154" fsh="74.793" fsinh="75.154" t="3.265" ct="3.265" b="0.631" fth="3.27" ftinh="3.265" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.075" v="2.343" />
+               <f t="FW TB1" o="32.707" v="1.625" />
+               <f t="SR" o="36.667" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="4" n="G5" vl="0" cvl="0" status="Data missing for well (7th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.055" v="2.343" />
+               <f t="EW TB" o="32.679" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="5" n="G6" vl="0" cvl="0" status="Data missing for well (7th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.039" v="2.281" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="6" n="G7" vl="0" cvl="0" status="Data missing for well (7th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.312" />
+               <f t="EW TB" o="32.653" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="7" n="G8" vl="0" cvl="0" status="Data missing for well (7th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.021" v="2.296" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="8" n="G9" vl="0" cvl="0" status="Data missing for well (7th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.312" />
+               <f t="EW TB" o="32.647" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="9" n="G10" vl="0" cvl="0" status="Data missing for well (7th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.312" />
+               <f t="EW TB" o="32.645" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="10" n="G11" vl="0" cvl="0" status="Data missing for well (7th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.009" v="2.343" />
+               <f t="EW TB" o="32.637" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="11" n="G12" vl="50.716" cvl="50.716" status="" fld="DMSO" fldu="Percent" x="105350.962" y="44678.223" s="72.121" fsh="72.03" fsinh="72.121" t="3.432" ct="3.432" b="0.634" fth="3.433" ftinh="3.432" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.013" v="2.359" />
+               <f t="FW TB1" o="32.647" v="1.484" />
+               <f t="SR" o="36.761" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="12" n="G13" vl="50.132" cvl="50.132" status="" fld="DMSO" fldu="Percent" x="109832.856" y="44678.223" s="70.487" fsh="71.886" fsinh="70.487" t="3.394" ct="3.394" b="0.634" fth="3.376" ftinh="3.394" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="44678.223" z="16756.194">
+               <f t="FW BB" o="32.009" v="2.359" />
+               <f t="FW TB1" o="32.643" v="1.39" />
+               <f t="SR" o="36.687" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="13" n="G14" vl="51.264" cvl="51.264" status="" fld="DMSO" fldu="Percent" x="114314.749" y="44678.223" s="75.796" fsh="73.113" fsinh="75.796" t="3.461" ct="3.461" b="0.631" fth="3.497" ftinh="3.461" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="44678.223" z="16756.194">
+               <f t="FW BB" o="31.999" v="2.375" />
+               <f t="FW TB1" o="32.631" v="1.734" />
+               <f t="SR" o="36.839" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="14" n="G15" vl="49.912" cvl="49.912" status="" fld="DMSO" fldu="Percent" x="118796.643" y="44678.223" s="72.884" fsh="74.476" fsinh="72.884" t="3.37" ct="3.37" b="0.636" fth="3.35" ftinh="3.37" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="44678.223" z="16756.194">
+               <f t="FW BB" o="31.999" v="2.343" />
+               <f t="FW TB1" o="32.635" v="1.609" />
+               <f t="SR" o="36.687" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="15" n="G16" vl="0" cvl="0" status="Data missing for well (7th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="44678.223" z="16756.194">
+               <f t="EW BB" o="31.991" v="2.328" />
+               <f t="EW TB" o="32.621" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="16" n="G17" vl="0" cvl="0" status="Data missing for well (7th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="44678.223" z="16756.194">
+               <f t="EW BB" o="31.987" v="2.281" />
+               <f t="EW TB" o="32.615" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="17" n="G18" vl="0" cvl="0" status="Data missing for well (7th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="44678.223" z="16756.194">
+               <f t="EW BB" o="31.987" v="2.281" />
+               <f t="EW TB" o="32.615" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="18" n="G19" vl="0" cvl="0" status="Data missing for well (7th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="44678.223" z="16756.194">
+               <f t="EW BB" o="31.991" v="2.296" />
+               <f t="EW TB" o="32.615" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="19" n="G20" vl="0" cvl="0" status="Data missing for well (7th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="44678.223" z="16756.194">
+               <f t="EW BB" o="31.999" v="2.265" />
+               <f t="EW TB" o="32.625" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="20" n="G21" vl="0" cvl="0" status="Data missing for well (7th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.328" />
+               <f t="EW TB" o="32.643" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="21" n="G22" vl="0" cvl="0" status="Data missing for well (7th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.043" v="2.328" />
+               <f t="EW TB" o="32.665" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="22" n="G23" vl="0" cvl="0" status="Data missing for well (7th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.617" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.077" v="2.375" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="6" c="23" n="G24" vl="0" cvl="0" status="Data missing for well (7th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="44678.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="44678.223" z="16756.194">
+               <f t="EW BB" o="32.107" v="2.359" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="0" n="H1" vl="52.243" cvl="52.243" status="" fld="DMSO" fldu="Percent" x="56056.325" y="40196.223" s="73.413" fsh="73.413" fsinh="73.413" t="3.539" ct="3.539" b="0.606" fth="3.539" ftinh="3.539" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.187" v="2.468" />
+               <f t="FW TB1" o="32.793" v="1.64" />
+               <f t="SR" o="37.057" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="1" n="H2" vl="49.533" cvl="49.533" status="" fld="DMSO" fldu="Percent" x="60538.219" y="40196.223" s="72.474" fsh="73.891" fsinh="72.474" t="3.344" ct="3.344" b="0.612" fth="3.326" ftinh="3.344" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.151" v="2.406" />
+               <f t="FW TB1" o="32.763" v="1.609" />
+               <f t="SR" o="36.777" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="2" n="H3" vl="47.952" cvl="47.952" status="" fld="DMSO" fldu="Percent" x="65020.112" y="40196.223" s="77.861" fsh="74.252" fsinh="77.861" t="3.213" ct="3.213" b="0.618" fth="3.258" ftinh="3.213" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.115" v="2.218" />
+               <f t="FW TB1" o="32.733" v="1.625" />
+               <f t="SR" o="36.671" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="3" n="H4" vl="50.349" cvl="50.349" status="" fld="DMSO" fldu="Percent" x="69502.006" y="40196.223" s="72.141" fsh="74.642" fsinh="72.141" t="3.405" ct="3.405" b="0.624" fth="3.372" ftinh="3.405" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.081" v="2.375" />
+               <f t="FW TB1" o="32.705" v="1.593" />
+               <f t="SR" o="36.787" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="4" n="H5" vl="0" cvl="0" status="Data missing for well (8th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.375" />
+               <f t="EW TB" o="32.679" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="5" n="H6" vl="0" cvl="0" status="Data missing for well (8th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.041" v="2.375" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="6" n="H7" vl="0" cvl="0" status="Data missing for well (8th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.343" />
+               <f t="EW TB" o="32.651" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="7" n="H8" vl="0" cvl="0" status="Data missing for well (8th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.021" v="2.328" />
+               <f t="EW TB" o="32.645" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="8" n="H9" vl="0" cvl="0" status="Data missing for well (8th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.343" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="9" n="H10" vl="0" cvl="0" status="Data missing for well (8th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.013" v="2.343" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="10" n="H11" vl="0" cvl="0" status="Data missing for well (8th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.007" v="2.328" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="11" n="H12" vl="48.802" cvl="48.802" status="" fld="DMSO" fldu="Percent" x="105357.154" y="40196.223" s="70.858" fsh="71.594" fsinh="70.858" t="3.296" ct="3.296" b="0.628" fth="3.286" ftinh="3.296" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.009" v="2.39" />
+               <f t="FW TB1" o="32.637" v="1.359" />
+               <f t="SR" o="36.569" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="12" n="H13" vl="51.458" cvl="51.458" status="" fld="DMSO" fldu="Percent" x="109839.047" y="40196.223" s="70.674" fsh="71.162" fsinh="70.674" t="3.491" ct="3.491" b="0.63" fth="3.484" ftinh="3.491" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="40196.223" z="16756.194">
+               <f t="FW BB" o="32.005" v="2.375" />
+               <f t="FW TB1" o="32.635" v="1.484" />
+               <f t="SR" o="36.797" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="13" n="H14" vl="51.981" cvl="51.981" status="" fld="DMSO" fldu="Percent" x="114320.941" y="40196.223" s="70.527" fsh="71.469" fsinh="70.527" t="3.53" ct="3.53" b="0.631" fth="3.517" ftinh="3.53" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="40196.223" z="16756.194">
+               <f t="FW BB" o="31.995" v="2.39" />
+               <f t="FW TB1" o="32.627" v="1.562" />
+               <f t="SR" o="36.833" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="14" n="H15" vl="50.728" cvl="50.728" status="" fld="DMSO" fldu="Percent" x="118802.834" y="40196.223" s="70.487" fsh="72.186" fsinh="70.487" t="3.438" ct="3.438" b="0.632" fth="3.416" ftinh="3.438" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="40196.223" z="16756.194">
+               <f t="FW BB" o="31.997" v="2.328" />
+               <f t="FW TB1" o="32.629" v="1.343" />
+               <f t="SR" o="36.725" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="15" n="H16" vl="0" cvl="0" status="Data missing for well (8th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="40196.223" z="16756.194">
+               <f t="EW BB" o="31.987" v="2.328" />
+               <f t="EW TB" o="32.613" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="16" n="H17" vl="0" cvl="0" status="Data missing for well (8th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="40196.223" z="16756.194">
+               <f t="EW BB" o="31.983" v="2.359" />
+               <f t="EW TB" o="32.609" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="17" n="H18" vl="0" cvl="0" status="Data missing for well (8th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="40196.223" z="16756.194">
+               <f t="EW BB" o="31.985" v="2.328" />
+               <f t="EW TB" o="32.609" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="18" n="H19" vl="0" cvl="0" status="Data missing for well (8th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="40196.223" z="16756.194">
+               <f t="EW BB" o="31.989" v="2.343" />
+               <f t="EW TB" o="32.613" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="19" n="H20" vl="0" cvl="0" status="Data missing for well (8th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.003" v="2.328" />
+               <f t="EW TB" o="32.627" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="20" n="H21" vl="0" cvl="0" status="Data missing for well (8th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.328" />
+               <f t="EW TB" o="32.643" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="21" n="H22" vl="0" cvl="0" status="Data missing for well (8th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.051" v="2.328" />
+               <f t="EW TB" o="32.667" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="22" n="H23" vl="0" cvl="0" status="Data missing for well (8th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.081" v="2.359" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="7" c="23" n="H24" vl="0" cvl="0" status="Data missing for well (8th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="40196.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.609" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="40196.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.421" />
+               <f t="EW TB" o="32.715" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="0" n="I1" vl="49.916" cvl="49.916" status="" fld="DMSO" fldu="Percent" x="56050.134" y="35714.223" s="74.574" fsh="73.555" fsinh="74.574" t="3.365" ct="3.365" b="0.608" fth="3.378" ftinh="3.365" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.185" v="2.468" />
+               <f t="FW TB1" o="32.793" v="1.64" />
+               <f t="SR" o="36.865" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="1" n="I2" vl="43.436" cvl="43.436" status="" fld="DMSO" fldu="Percent" x="60532.027" y="35714.223" s="73.404" fsh="73.555" fsinh="73.404" t="2.894" ct="2.894" b="0.613" fth="2.892" ftinh="2.894" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.147" v="2.406" />
+               <f t="FW TB1" o="32.761" v="1.64" />
+               <f t="SR" o="36.247" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="2" n="I3" vl="48.97" cvl="48.97" status="" fld="DMSO" fldu="Percent" x="65013.921" y="35714.223" s="75.212" fsh="74.337" fsinh="75.212" t="3.294" ct="3.294" b="0.621" fth="3.305" ftinh="3.294" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.111" v="2.375" />
+               <f t="FW TB1" o="32.733" v="1.64" />
+               <f t="SR" o="36.729" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="3" n="I4" vl="48.696" cvl="48.696" status="" fld="DMSO" fldu="Percent" x="69495.814" y="35714.223" s="74.441" fsh="74.695" fsinh="74.441" t="3.276" ct="3.276" b="0.624" fth="3.272" ftinh="3.276" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.081" v="2.359" />
+               <f t="FW TB1" o="32.705" v="1.64" />
+               <f t="SR" o="36.667" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="4" n="I5" vl="0" cvl="0" status="Data missing for well (9th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.055" v="2.359" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="5" n="I6" vl="0" cvl="0" status="Data missing for well (9th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.039" v="2.359" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="6" n="I7" vl="0" cvl="0" status="Data missing for well (9th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.343" />
+               <f t="EW TB" o="32.651" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="7" n="I8" vl="0" cvl="0" status="Data missing for well (9th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.343" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="8" n="I9" vl="0" cvl="0" status="Data missing for well (9th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.013" v="2.328" />
+               <f t="EW TB" o="32.637" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="9" n="I10" vl="0" cvl="0" status="Data missing for well (9th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.009" v="2.343" />
+               <f t="EW TB" o="32.635" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="10" n="I11" vl="0" cvl="0" status="Data missing for well (9th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="35714.223" z="16756.194">
+               <f t="EW BB" o="31.999" v="2.359" />
+               <f t="EW TB" o="32.623" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="11" n="I12" vl="50.746" cvl="50.746" status="" fld="DMSO" fldu="Percent" x="105350.962" y="35714.223" s="74.29" fsh="71.999" fsinh="74.29" t="3.426" ct="3.426" b="0.63" fth="3.457" ftinh="3.426" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.003" v="2.406" />
+               <f t="FW TB1" o="32.633" v="1.468" />
+               <f t="SR" o="36.775" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="12" n="I13" vl="49.146" cvl="49.146" status="" fld="DMSO" fldu="Percent" x="109832.856" y="35714.223" s="70.487" fsh="71.319" fsinh="70.487" t="3.322" ct="3.322" b="0.632" fth="3.312" ftinh="3.322" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="35714.223" z="16756.194">
+               <f t="FW BB" o="32.003" v="2.39" />
+               <f t="FW TB1" o="32.635" v="1.312" />
+               <f t="SR" o="36.593" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="13" n="I14" vl="51.321" cvl="51.321" status="" fld="DMSO" fldu="Percent" x="114314.749" y="35714.223" s="73.537" fsh="71.255" fsinh="73.537" t="3.471" ct="3.471" b="0.631" fth="3.502" ftinh="3.471" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="35714.223" z="16756.194">
+               <f t="FW BB" o="31.993" v="2.359" />
+               <f t="FW TB1" o="32.625" v="1.562" />
+               <f t="SR" o="36.809" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="14" n="I15" vl="47.128" cvl="47.128" status="" fld="DMSO" fldu="Percent" x="118796.643" y="35714.223" s="70.487" fsh="71.033" fsinh="70.487" t="3.174" ct="3.174" b="0.633" fth="3.168" ftinh="3.174" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="35714.223" z="16756.194">
+               <f t="FW BB" o="31.991" v="2.359" />
+               <f t="FW TB1" o="32.625" v="1.359" />
+               <f t="SR" o="36.407" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="15" n="I16" vl="0" cvl="0" status="Data missing for well (9th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="35714.223" z="16756.194">
+               <f t="EW BB" o="31.983" v="2.343" />
+               <f t="EW TB" o="32.609" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="16" n="I17" vl="0" cvl="0" status="Data missing for well (9th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="35714.223" z="16756.194">
+               <f t="EW BB" o="31.983" v="2.343" />
+               <f t="EW TB" o="32.607" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="17" n="I18" vl="0" cvl="0" status="Data missing for well (9th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="35714.223" z="16756.194">
+               <f t="EW BB" o="31.979" v="2.343" />
+               <f t="EW TB" o="32.605" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="18" n="I19" vl="0" cvl="0" status="Data missing for well (9th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="35714.223" z="16756.194">
+               <f t="EW BB" o="31.987" v="2.328" />
+               <f t="EW TB" o="32.611" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="19" n="I20" vl="0" cvl="0" status="Data missing for well (9th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.001" v="2.343" />
+               <f t="EW TB" o="32.625" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="20" n="I21" vl="0" cvl="0" status="Data missing for well (9th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.021" v="2.359" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="21" n="I22" vl="0" cvl="0" status="Data missing for well (9th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.043" v="2.328" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="22" n="I23" vl="0" cvl="0" status="Data missing for well (9th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.077" v="2.296" />
+               <f t="EW TB" o="32.691" v="3.984" />
+          </e>
+     </w>
+     <w r="8" c="23" n="I24" vl="0" cvl="0" status="Data missing for well (9th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="35714.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.607" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="35714.223" z="16756.194">
+               <f t="EW BB" o="32.107" v="2.39" />
+               <f t="EW TB" o="32.715" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="0" n="J1" vl="44.486" cvl="44.486" status="" fld="DMSO" fldu="Percent" x="56056.325" y="31232.223" s="73.555" fsh="74.574" fsinh="73.555" t="2.97" ct="2.97" b="0.615" fth="2.958" ftinh="2.97" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.181" v="2.437" />
+               <f t="FW TB1" o="32.797" v="1.562" />
+               <f t="SR" o="36.377" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="1" n="J2" vl="46.576" cvl="46.576" status="" fld="DMSO" fldu="Percent" x="60538.219" y="31232.223" s="76.158" fsh="75.212" fsinh="76.158" t="3.116" ct="3.116" b="0.624" fth="3.127" ftinh="3.116" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.143" v="2.406" />
+               <f t="FW TB1" o="32.767" v="1.562" />
+               <f t="SR" o="36.561" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="2" n="J3" vl="45.912" cvl="45.912" status="" fld="DMSO" fldu="Percent" x="65020.112" y="31232.223" s="70.487" fsh="74.639" fsinh="70.487" t="3.085" ct="3.085" b="0.63" fth="3.037" ftinh="3.085" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.103" v="2.375" />
+               <f t="FW TB1" o="32.733" v="1.078" />
+               <f t="SR" o="36.409" v="3.64" />
+          </e>
+     </w>
+     <w r="9" c="3" n="J4" vl="49.146" cvl="49.146" status="" fld="DMSO" fldu="Percent" x="69502.006" y="31232.223" s="70.487" fsh="0" fsinh="70.487" t="3.322" ct="3.322" b="0.63" fth="9.542" ftinh="3.322" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.075" v="2.343" />
+               <f t="FW TB1" o="32.705" v="1.343" />
+               <f t="SR" o="36.663" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="4" n="J5" vl="0" cvl="0" status="Data missing for well (10th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.049" v="2.343" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="5" n="J6" vl="0" cvl="0" status="Data missing for well (10th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.033" v="2.328" />
+               <f t="EW TB" o="32.657" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="6" n="J7" vl="0" cvl="0" status="Data missing for well (10th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.343" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="7" n="J8" vl="0" cvl="0" status="Data missing for well (10th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.015" v="2.312" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="8" n="J9" vl="0" cvl="0" status="Data missing for well (10th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.011" v="2.312" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="9" n="J10" vl="0" cvl="0" status="Data missing for well (10th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.009" v="2.312" />
+               <f t="EW TB" o="32.637" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="10" n="J11" vl="0" cvl="0" status="Data missing for well (10th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.995" v="2.359" />
+               <f t="EW TB" o="32.621" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="11" n="J12" vl="50.931" cvl="50.931" status="" fld="DMSO" fldu="Percent" x="105357.154" y="31232.223" s="72.384" fsh="0" fsinh="72.384" t="3.447" ct="3.447" b="0.634" fth="9.971" ftinh="3.447" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.005" v="2.375" />
+               <f t="FW TB1" o="32.639" v="1.437" />
+               <f t="SR" o="36.775" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="12" n="J13" vl="47.859" cvl="47.859" status="" fld="DMSO" fldu="Percent" x="109839.047" y="31232.223" s="70.51" fsh="71.873" fsinh="70.51" t="3.228" ct="3.228" b="0.635" fth="3.211" ftinh="3.228" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="31232.223" z="16756.194">
+               <f t="FW BB" o="32.001" v="2.343" />
+               <f t="FW TB1" o="32.637" v="1.328" />
+               <f t="SR" o="36.483" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="13" n="J14" vl="50.082" cvl="50.082" status="" fld="DMSO" fldu="Percent" x="114320.941" y="31232.223" s="70.518" fsh="71.056" fsinh="70.518" t="3.39" ct="3.39" b="0.634" fth="3.384" ftinh="3.39" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="31232.223" z="16756.194">
+               <f t="FW BB" o="31.989" v="2.359" />
+               <f t="FW TB1" o="32.623" v="1.546" />
+               <f t="SR" o="36.663" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="14" n="J15" vl="48.068" cvl="48.068" status="" fld="DMSO" fldu="Percent" x="118802.834" y="31232.223" s="70.487" fsh="0" fsinh="70.487" t="3.243" ct="3.243" b="0.634" fth="9.315" ftinh="3.243" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="31232.223" z="16756.194">
+               <f t="FW BB" o="31.989" v="2.312" />
+               <f t="FW TB1" o="32.623" v="0.765" />
+               <f t="SR" o="36.487" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="15" n="J16" vl="0" cvl="0" status="Data missing for well (10th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.981" v="2.312" />
+               <f t="EW TB" o="32.609" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="16" n="J17" vl="0" cvl="0" status="Data missing for well (10th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.977" v="2.296" />
+               <f t="EW TB" o="32.605" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="17" n="J18" vl="0" cvl="0" status="Data missing for well (10th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.973" v="2.296" />
+               <f t="EW TB" o="32.601" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="18" n="J19" vl="0" cvl="0" status="Data missing for well (10th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.981" v="2.328" />
+               <f t="EW TB" o="32.607" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="19" n="J20" vl="0" cvl="0" status="Data missing for well (10th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="31232.223" z="16756.194">
+               <f t="EW BB" o="31.991" v="2.281" />
+               <f t="EW TB" o="32.617" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="20" n="J21" vl="0" cvl="0" status="Data missing for well (10th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.007" v="2.281" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="21" n="J22" vl="0" cvl="0" status="Data missing for well (10th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.033" v="2.328" />
+               <f t="EW TB" o="32.655" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="22" n="J23" vl="0" cvl="0" status="Data missing for well (10th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.067" v="2.328" />
+               <f t="EW TB" o="32.685" v="3.984" />
+          </e>
+     </w>
+     <w r="9" c="23" n="J24" vl="0" cvl="0" status="Data missing for well (10th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="31232.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.614" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="31232.223" z="16756.194">
+               <f t="EW BB" o="32.097" v="2.39" />
+               <f t="EW TB" o="32.711" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="0" n="K1" vl="0" cvl="0" status="Data missing for well (11th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56050.134" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.609" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.187" v="2.421" />
+               <f t="EW TB" o="32.797" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="1" n="K2" vl="0" cvl="0" status="Data missing for well (11th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60532.027" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.143" v="2.39" />
+               <f t="EW TB" o="32.761" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="2" n="K3" vl="0" cvl="0" status="Data missing for well (11th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65013.921" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.109" v="2.375" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="3" n="K4" vl="0" cvl="0" status="Data missing for well (11th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69495.814" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.079" v="2.343" />
+               <f t="EW TB" o="32.701" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="4" n="K5" vl="0" cvl="0" status="Data missing for well (11th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.059" v="2.328" />
+               <f t="EW TB" o="32.683" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="5" n="K6" vl="0" cvl="0" status="Data missing for well (11th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.043" v="2.296" />
+               <f t="EW TB" o="32.669" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="6" n="K7" vl="0" cvl="0" status="Data missing for well (11th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.031" v="2.296" />
+               <f t="EW TB" o="32.657" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="7" n="K8" vl="0" cvl="0" status="Data missing for well (11th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.296" />
+               <f t="EW TB" o="32.651" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="8" n="K9" vl="0" cvl="0" status="Data missing for well (11th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.296" />
+               <f t="EW TB" o="32.647" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="9" n="K10" vl="0" cvl="0" status="Data missing for well (11th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.013" v="2.328" />
+               <f t="EW TB" o="32.641" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="10" n="K11" vl="0" cvl="0" status="Data missing for well (11th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.003" v="2.312" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="11" n="K12" vl="0" cvl="0" status="Data missing for well (11th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105350.962" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.013" v="2.359" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="12" n="K13" vl="0" cvl="0" status="Data missing for well (11th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109832.856" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.007" v="2.343" />
+               <f t="EW TB" o="32.635" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="13" n="K14" vl="0" cvl="0" status="Data missing for well (11th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114314.749" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.993" v="2.343" />
+               <f t="EW TB" o="32.623" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="14" n="K15" vl="0" cvl="0" status="Data missing for well (11th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118796.643" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.991" v="2.312" />
+               <f t="EW TB" o="32.621" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="15" n="K16" vl="0" cvl="0" status="Data missing for well (11th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.987" v="2.296" />
+               <f t="EW TB" o="32.617" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="16" n="K17" vl="0" cvl="0" status="Data missing for well (11th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.983" v="2.281" />
+               <f t="EW TB" o="32.613" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="17" n="K18" vl="0" cvl="0" status="Data missing for well (11th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.983" v="2.281" />
+               <f t="EW TB" o="32.611" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="18" n="K19" vl="0" cvl="0" status="Data missing for well (11th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.627" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="26750.223" z="16756.194">
+               <f t="EW BB" o="31.991" v="2.296" />
+               <f t="EW TB" o="32.619" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="19" n="K20" vl="0" cvl="0" status="Data missing for well (11th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.001" v="2.312" />
+               <f t="EW TB" o="32.627" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="20" n="K21" vl="0" cvl="0" status="Data missing for well (11th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.015" v="2.312" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="21" n="K22" vl="0" cvl="0" status="Data missing for well (11th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.037" v="2.312" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="22" n="K23" vl="0" cvl="0" status="Data missing for well (11th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.069" v="2.343" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="10" c="23" n="K24" vl="0" cvl="0" status="Data missing for well (11th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="26750.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="26750.223" z="16756.194">
+               <f t="EW BB" o="32.099" v="2.359" />
+               <f t="EW TB" o="32.715" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="0" n="L1" vl="0" cvl="0" status="Data missing for well (12th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56056.325" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.609" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.193" v="2.437" />
+               <f t="EW TB" o="32.803" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="1" n="L2" vl="0" cvl="0" status="Data missing for well (12th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60538.219" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.151" v="2.39" />
+               <f t="EW TB" o="32.769" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="2" n="L3" vl="0" cvl="0" status="Data missing for well (12th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65020.112" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.117" v="2.421" />
+               <f t="EW TB" o="32.737" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="3" n="L4" vl="0" cvl="0" status="Data missing for well (12th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69502.006" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.089" v="2.328" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="4" n="L5" vl="0" cvl="0" status="Data missing for well (12th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.328" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="5" n="L6" vl="0" cvl="0" status="Data missing for well (12th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.059" v="2.328" />
+               <f t="EW TB" o="32.683" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="6" n="L7" vl="0" cvl="0" status="Data missing for well (12th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.045" v="2.328" />
+               <f t="EW TB" o="32.671" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="7" n="L8" vl="0" cvl="0" status="Data missing for well (12th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.312" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="8" n="L9" vl="0" cvl="0" status="Data missing for well (12th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.027" v="2.312" />
+               <f t="EW TB" o="32.655" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="9" n="L10" vl="0" cvl="0" status="Data missing for well (12th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.343" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="10" n="L11" vl="0" cvl="0" status="Data missing for well (12th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.013" v="2.343" />
+               <f t="EW TB" o="32.643" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="11" n="L12" vl="0" cvl="0" status="Data missing for well (12th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105357.154" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.021" v="2.359" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="12" n="L13" vl="0" cvl="0" status="Data missing for well (12th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109839.047" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.359" />
+               <f t="EW TB" o="32.645" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="13" n="L14" vl="0" cvl="0" status="Data missing for well (12th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114320.941" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.003" v="2.328" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="14" n="L15" vl="0" cvl="0" status="Data missing for well (12th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118802.834" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.001" v="2.328" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="15" n="L16" vl="0" cvl="0" status="Data missing for well (12th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="22268.223" z="16756.194">
+               <f t="EW BB" o="31.995" v="2.296" />
+               <f t="EW TB" o="32.625" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="16" n="L17" vl="0" cvl="0" status="Data missing for well (12th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.629" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="22268.223" z="16756.194">
+               <f t="EW BB" o="31.997" v="2.281" />
+               <f t="EW TB" o="32.627" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="17" n="L18" vl="0" cvl="0" status="Data missing for well (12th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="22268.223" z="16756.194">
+               <f t="EW BB" o="31.999" v="2.281" />
+               <f t="EW TB" o="32.625" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="18" n="L19" vl="0" cvl="0" status="Data missing for well (12th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.005" v="2.234" />
+               <f t="EW TB" o="32.631" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="19" n="L20" vl="0" cvl="0" status="Data missing for well (12th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.011" v="2.296" />
+               <f t="EW TB" o="32.637" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="20" n="L21" vl="0" cvl="0" status="Data missing for well (12th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.312" />
+               <f t="EW TB" o="32.647" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="21" n="L22" vl="0" cvl="0" status="Data missing for well (12th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.25" />
+               <f t="EW TB" o="32.667" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="22" n="L23" vl="0" cvl="0" status="Data missing for well (12th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.073" v="2.343" />
+               <f t="EW TB" o="32.691" v="3.984" />
+          </e>
+     </w>
+     <w r="11" c="23" n="L24" vl="0" cvl="0" status="Data missing for well (12th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="22268.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="22268.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.375" />
+               <f t="EW TB" o="32.719" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="0" n="M1" vl="0" cvl="0" status="Data missing for well (13th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56050.134" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.201" v="2.468" />
+               <f t="EW TB" o="32.813" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="1" n="M2" vl="0" cvl="0" status="Data missing for well (13th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60532.027" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.165" v="2.406" />
+               <f t="EW TB" o="32.781" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="2" n="M3" vl="0" cvl="0" status="Data missing for well (13th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65013.921" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.133" v="2.312" />
+               <f t="EW TB" o="32.753" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="3" n="M4" vl="0" cvl="0" status="Data missing for well (13th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69495.814" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.312" />
+               <f t="EW TB" o="32.727" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="4" n="M5" vl="0" cvl="0" status="Data missing for well (13th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.087" v="2.328" />
+               <f t="EW TB" o="32.709" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="5" n="M6" vl="0" cvl="0" status="Data missing for well (13th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.073" v="2.328" />
+               <f t="EW TB" o="32.697" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="6" n="M7" vl="0" cvl="0" status="Data missing for well (13th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.061" v="2.328" />
+               <f t="EW TB" o="32.687" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="7" n="M8" vl="0" cvl="0" status="Data missing for well (13th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.343" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="8" n="M9" vl="0" cvl="0" status="Data missing for well (13th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.343" />
+               <f t="EW TB" o="32.663" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="9" n="M10" vl="0" cvl="0" status="Data missing for well (13th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.033" v="2.359" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="10" n="M11" vl="0" cvl="0" status="Data missing for well (13th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.031" v="2.375" />
+               <f t="EW TB" o="32.657" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="11" n="M12" vl="0" cvl="0" status="Data missing for well (13th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105350.962" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.031" v="2.343" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="12" n="M13" vl="0" cvl="0" status="Data missing for well (13th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109832.856" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.025" v="2.343" />
+               <f t="EW TB" o="32.653" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="13" n="M14" vl="0" cvl="0" status="Data missing for well (13th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114314.749" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.343" />
+               <f t="EW TB" o="32.645" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="14" n="M15" vl="0" cvl="0" status="Data missing for well (13th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118796.643" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.009" v="2.359" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="15" n="M16" vl="0" cvl="0" status="Data missing for well (13th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.63" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.005" v="2.328" />
+               <f t="EW TB" o="32.635" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="16" n="M17" vl="0" cvl="0" status="Data missing for well (13th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.011" v="2.312" />
+               <f t="EW TB" o="32.639" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="17" n="M18" vl="0" cvl="0" status="Data missing for well (13th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.015" v="2.296" />
+               <f t="EW TB" o="32.643" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="18" n="M19" vl="0" cvl="0" status="Data missing for well (13th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.017" v="2.281" />
+               <f t="EW TB" o="32.645" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="19" n="M20" vl="0" cvl="0" status="Data missing for well (13th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.025" v="2.265" />
+               <f t="EW TB" o="32.651" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="20" n="M21" vl="0" cvl="0" status="Data missing for well (13th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.037" v="2.312" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="21" n="M22" vl="0" cvl="0" status="Data missing for well (13th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.055" v="2.359" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="22" n="M23" vl="0" cvl="0" status="Data missing for well (13th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.085" v="2.281" />
+               <f t="EW TB" o="32.703" v="3.984" />
+          </e>
+     </w>
+     <w r="12" c="23" n="M24" vl="0" cvl="0" status="Data missing for well (13th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="17786.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="17786.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.375" />
+               <f t="EW TB" o="32.727" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="0" n="N1" vl="0" cvl="0" status="Data missing for well (14th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56056.325" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.611" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.211" v="2.5" />
+               <f t="EW TB" o="32.823" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="1" n="N2" vl="0" cvl="0" status="Data missing for well (14th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60538.219" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.181" v="2.437" />
+               <f t="EW TB" o="32.797" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="2" n="N3" vl="0" cvl="0" status="Data missing for well (14th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65020.112" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.151" v="2.375" />
+               <f t="EW TB" o="32.771" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="3" n="N4" vl="0" cvl="0" status="Data missing for well (14th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69502.006" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.125" v="2.328" />
+               <f t="EW TB" o="32.745" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="4" n="N5" vl="0" cvl="0" status="Data missing for well (14th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.105" v="2.343" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="5" n="N6" vl="0" cvl="0" status="Data missing for well (14th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.087" v="2.359" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="6" n="N7" vl="0" cvl="0" status="Data missing for well (14th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.328" />
+               <f t="EW TB" o="32.697" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="7" n="N8" vl="0" cvl="0" status="Data missing for well (14th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.059" v="2.328" />
+               <f t="EW TB" o="32.687" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="8" n="N9" vl="0" cvl="0" status="Data missing for well (14th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.049" v="2.375" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="9" n="N10" vl="0" cvl="0" status="Data missing for well (14th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.049" v="2.359" />
+               <f t="EW TB" o="32.675" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="10" n="N11" vl="0" cvl="0" status="Data missing for well (14th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.055" v="2.359" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="11" n="N12" vl="0" cvl="0" status="Data missing for well (14th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105357.154" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.041" v="2.375" />
+               <f t="EW TB" o="32.669" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="12" n="N13" vl="0" cvl="0" status="Data missing for well (14th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109839.047" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.037" v="2.406" />
+               <f t="EW TB" o="32.665" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="13" n="N14" vl="0" cvl="0" status="Data missing for well (14th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114320.941" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.041" v="2.343" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="14" n="N15" vl="0" cvl="0" status="Data missing for well (14th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118802.834" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.029" v="2.343" />
+               <f t="EW TB" o="32.653" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="15" n="N16" vl="0" cvl="0" status="Data missing for well (14th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.019" v="2.281" />
+               <f t="EW TB" o="32.647" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="16" n="N17" vl="0" cvl="0" status="Data missing for well (14th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.023" v="2.296" />
+               <f t="EW TB" o="32.649" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="17" n="N18" vl="0" cvl="0" status="Data missing for well (14th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.628" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.025" v="2.296" />
+               <f t="EW TB" o="32.653" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="18" n="N19" vl="0" cvl="0" status="Data missing for well (14th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.296" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="19" n="N20" vl="0" cvl="0" status="Data missing for well (14th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.045" v="2.281" />
+               <f t="EW TB" o="32.671" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="20" n="N21" vl="0" cvl="0" status="Data missing for well (14th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.281" />
+               <f t="EW TB" o="32.679" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="21" n="N22" vl="0" cvl="0" status="Data missing for well (14th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.075" v="2.312" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="22" n="N23" vl="0" cvl="0" status="Data missing for well (14th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.099" v="2.359" />
+               <f t="EW TB" o="32.717" v="3.984" />
+          </e>
+     </w>
+     <w r="13" c="23" n="N24" vl="0" cvl="0" status="Data missing for well (14th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="13304.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="13304.223" z="16756.194">
+               <f t="EW BB" o="32.119" v="2.406" />
+               <f t="EW TB" o="32.731" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="0" n="O1" vl="0" cvl="0" status="Data missing for well (15th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56050.134" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56050.134" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.221" v="2.484" />
+               <f t="EW TB" o="32.833" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="1" n="O2" vl="0" cvl="0" status="Data missing for well (15th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60532.027" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60532.027" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.199" v="2.484" />
+               <f t="EW TB" o="32.811" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="2" n="O3" vl="0" cvl="0" status="Data missing for well (15th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65013.921" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65013.921" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.175" v="2.421" />
+               <f t="EW TB" o="32.791" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="3" n="O4" vl="0" cvl="0" status="Data missing for well (15th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69495.814" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69495.814" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.145" v="2.375" />
+               <f t="EW TB" o="32.765" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="4" n="O5" vl="0" cvl="0" status="Data missing for well (15th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73977.708" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73977.708" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.121" v="2.343" />
+               <f t="EW TB" o="32.743" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="5" n="O6" vl="0" cvl="0" status="Data missing for well (15th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78459.601" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78459.601" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.097" v="2.343" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="6" n="O7" vl="0" cvl="0" status="Data missing for well (15th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82941.495" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82941.495" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.081" v="2.359" />
+               <f t="EW TB" o="32.705" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="7" n="O8" vl="0" cvl="0" status="Data missing for well (15th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87423.388" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87423.388" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.359" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="8" n="O9" vl="0" cvl="0" status="Data missing for well (15th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91905.282" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91905.282" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.063" v="2.375" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="9" n="O10" vl="0" cvl="0" status="Data missing for well (15th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96387.175" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96387.175" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.069" v="2.39" />
+               <f t="EW TB" o="32.691" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="10" n="O11" vl="0" cvl="0" status="Data missing for well (15th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100869.069" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100869.069" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.087" v="2.39" />
+               <f t="EW TB" o="32.707" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="11" n="O12" vl="0" cvl="0" status="Data missing for well (15th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105350.962" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105350.962" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.406" />
+               <f t="EW TB" o="32.681" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="12" n="O13" vl="0" cvl="0" status="Data missing for well (15th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109832.856" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109832.856" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.051" v="2.359" />
+               <f t="EW TB" o="32.675" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="13" n="O14" vl="0" cvl="0" status="Data missing for well (15th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114314.749" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114314.749" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.069" v="2.312" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="14" n="O15" vl="0" cvl="0" status="Data missing for well (15th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118796.643" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118796.643" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.045" v="2.359" />
+               <f t="EW TB" o="32.667" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="15" n="O16" vl="0" cvl="0" status="Data missing for well (15th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123278.536" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123278.536" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.359" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="16" n="O17" vl="0" cvl="0" status="Data missing for well (15th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127760.43" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.626" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127760.43" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.033" v="2.312" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="17" n="O18" vl="0" cvl="0" status="Data missing for well (15th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132242.323" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132242.323" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.281" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="18" n="O19" vl="0" cvl="0" status="Data missing for well (15th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136724.217" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136724.217" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.045" v="2.296" />
+               <f t="EW TB" o="32.669" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="19" n="O20" vl="0" cvl="0" status="Data missing for well (15th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141206.11" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.625" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141206.11" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.061" v="2.328" />
+               <f t="EW TB" o="32.687" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="20" n="O21" vl="0" cvl="0" status="Data missing for well (15th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145688.004" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145688.004" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.079" v="2.343" />
+               <f t="EW TB" o="32.701" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="21" n="O22" vl="0" cvl="0" status="Data missing for well (15th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150169.897" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150169.897" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.093" v="2.359" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="22" n="O23" vl="0" cvl="0" status="Data missing for well (15th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154651.791" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154651.791" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.113" v="2.39" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="14" c="23" n="O24" vl="0" cvl="0" status="Data missing for well (15th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159133.684" y="8822.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.614" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159133.684" y="8822.223" z="16756.194">
+               <f t="EW BB" o="32.127" v="2.375" />
+               <f t="EW TB" o="32.741" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="0" n="P1" vl="0" cvl="0" status="Data missing for well (16th row, 1th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="56056.325" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.609" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="56056.325" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.227" v="2.531" />
+               <f t="EW TB" o="32.837" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="1" n="P2" vl="0" cvl="0" status="Data missing for well (16th row, 2th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="60538.219" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.609" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="60538.219" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.209" v="2.5" />
+               <f t="EW TB" o="32.819" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="2" n="P3" vl="0" cvl="0" status="Data missing for well (16th row, 3th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="65020.112" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="65020.112" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.187" v="2.484" />
+               <f t="EW TB" o="32.799" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="3" n="P4" vl="0" cvl="0" status="Data missing for well (16th row, 4th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="69502.006" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="69502.006" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.157" v="2.421" />
+               <f t="EW TB" o="32.775" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="4" n="P5" vl="0" cvl="0" status="Data missing for well (16th row, 5th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="73983.899" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="73983.899" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.129" v="2.421" />
+               <f t="EW TB" o="32.749" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="5" n="P6" vl="0" cvl="0" status="Data missing for well (16th row, 6th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="78465.793" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="78465.793" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.109" v="2.39" />
+               <f t="EW TB" o="32.729" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="6" n="P7" vl="0" cvl="0" status="Data missing for well (16th row, 7th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="82947.686" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="82947.686" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.091" v="2.406" />
+               <f t="EW TB" o="32.713" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="7" n="P8" vl="0" cvl="0" status="Data missing for well (16th row, 8th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="87429.58" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="87429.58" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.073" v="2.359" />
+               <f t="EW TB" o="32.695" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="8" n="P9" vl="0" cvl="0" status="Data missing for well (16th row, 9th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="91911.473" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="91911.473" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.067" v="2.406" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="9" n="P10" vl="0" cvl="0" status="Data missing for well (16th row, 10th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="96393.367" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="96393.367" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.067" v="2.39" />
+               <f t="EW TB" o="32.685" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="10" n="P11" vl="0" cvl="0" status="Data missing for well (16th row, 11th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="100875.26" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.617" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="100875.26" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.083" v="2.359" />
+               <f t="EW TB" o="32.701" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="11" n="P12" vl="0" cvl="0" status="Data missing for well (16th row, 12th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="105357.154" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.615" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="105357.154" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.061" v="2.5" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="12" n="P13" vl="0" cvl="0" status="Data missing for well (16th row, 13th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="109839.047" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.617" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="109839.047" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.055" v="2.5" />
+               <f t="EW TB" o="32.673" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="13" n="P14" vl="0" cvl="0" status="Data missing for well (16th row, 14th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="114320.941" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="114320.941" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.069" v="2.39" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="14" n="P15" vl="0" cvl="0" status="Data missing for well (16th row, 15th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="118802.834" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.619" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="118802.834" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.39" />
+               <f t="EW TB" o="32.667" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="15" n="P16" vl="0" cvl="0" status="Data missing for well (16th row, 16th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="123284.728" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.624" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="123284.728" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.035" v="2.375" />
+               <f t="EW TB" o="32.659" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="16" n="P17" vl="0" cvl="0" status="Data missing for well (16th row, 17th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="127766.621" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.623" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="127766.621" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.037" v="2.359" />
+               <f t="EW TB" o="32.661" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="17" n="P18" vl="0" cvl="0" status="Data missing for well (16th row, 18th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="132248.515" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.621" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="132248.515" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.047" v="2.375" />
+               <f t="EW TB" o="32.669" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="18" n="P19" vl="0" cvl="0" status="Data missing for well (16th row, 19th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="136730.408" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.62" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="136730.408" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.057" v="2.343" />
+               <f t="EW TB" o="32.677" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="19" n="P20" vl="0" cvl="0" status="Data missing for well (16th row, 20th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="141212.302" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.617" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="141212.302" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.071" v="2.328" />
+               <f t="EW TB" o="32.689" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="20" n="P21" vl="0" cvl="0" status="Data missing for well (16th row, 21th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="145694.195" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.618" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="145694.195" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.087" v="2.375" />
+               <f t="EW TB" o="32.705" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="21" n="P22" vl="0" cvl="0" status="Data missing for well (16th row, 22th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="150176.089" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.613" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="150176.089" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.107" v="2.406" />
+               <f t="EW TB" o="32.721" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="22" n="P23" vl="0" cvl="0" status="Data missing for well (16th row, 23th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="154657.982" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.614" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="154657.982" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.119" v="2.406" />
+               <f t="EW TB" o="32.733" v="3.984" />
+          </e>
+     </w>
+     <w r="15" c="23" n="P24" vl="0" cvl="0" status="Data missing for well (16th row, 24th column), defaulting to 0.0 percent DMSO" fld="DMSO" fldu="Percent" x="159139.876" y="4340.223" s="0" fsh="0" fsinh="0" t="0" ct="0" b="0.612" fth="0" ftinh="0" o="0" a="NONE">
+          <e t="AVG" x="159139.876" y="4340.223" z="16756.194">
+               <f t="EW BB" o="32.129" v="2.453" />
+               <f t="EW TB" o="32.741" v="3.984" />
+          </e>
+     </w>
+</platesurvey>
